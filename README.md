@@ -7,6 +7,7 @@
 
 ## With this name:
 com.hendricksond.homeassistant.webhook.sdPlugin
+https://n8n.io/pricing/ Is good option for workflows and free for 5 workflows
 
 This plugin should work on both Windows 10 and macOS.
 
