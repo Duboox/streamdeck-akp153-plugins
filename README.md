@@ -1,6 +1,10 @@
 # Home Assistant Webhooks for Elgato Stream Deck
 > Use the Elgato Stream Deck to call Home Assistant webhooks.
 
+
+#FOR AJAZZ AKP153 Stream Dock should be installed in:
+/Users/joshdevjs/Library/Application Support/HotSpot/StreamDock
+
 This plugin should work on both Windows 10 and macOS.
 
 Based on the [streamdeck-ifttt plugin](https://github.com/tobimori/streamdeck-ifttt) by tobimori. The main difference is that this plugin lets you call Home Assistant webhooks directly, without using IFTTT as a middleman.
