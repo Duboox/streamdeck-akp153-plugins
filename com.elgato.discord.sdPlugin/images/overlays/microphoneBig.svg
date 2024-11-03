@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 144 144"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="microphoneBig.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.0625"
+     inkscape:cx="72"
+     inkscape:cy="71.917526"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="microphone"
+     fill="#ffffff"
+     fill-rule="nonzero"
+     d="M 66.81222,108.189 C 45.626096,105.6255 29.186,87.561 29.186,65.688 h 11.268066 c 0,17.4105 14.134582,31.5465 31.546684,31.5465 17.4106,0 31.54668,-14.136 31.54668,-31.5465 H 114.814 c 0,21.312 -15.60609,39.0075 -36.00171,42.273 v 25.116 H 66.81222 Z M 90.06236,28.923 v 38.25 c 0,9.9345 -8.06555,18 -18.00011,18 -9.934558,0 -18.000105,-8.0655 -18.000105,-18 v -38.25 c 0,-9.9345 8.065547,-18 18.000105,-18 9.93456,0 18.00011,8.0655 18.00011,18 z"
+     style="stroke-width:1.49999" />
+</svg>
