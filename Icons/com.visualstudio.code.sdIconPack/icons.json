@@ -1,0 +1,2243 @@
+[
+  {
+    "name": "add",
+    "tags": [
+      "plus",
+      "gist-new",
+      "repo-create"
+    ],
+    "path": "add.svg"
+  },
+  {
+    "name": "lightbulb",
+    "tags": [
+      "light-bulb"
+    ],
+    "path": "lightbulb.svg"
+  },
+  {
+    "name": "repo",
+    "tags": [
+      "repo-delete"
+    ],
+    "path": "repo.svg"
+  },
+  {
+    "name": "repo-forked",
+    "tags": [
+      "gist-fork"
+    ],
+    "path": "repo-forked.svg"
+  },
+  {
+    "name": "git-pull-request",
+    "tags": [
+      "git-pull-request-abandoned"
+    ],
+    "path": "git-pull-request.svg"
+  },
+  {
+    "name": "record-keys",
+    "tags": [
+      "keyboard"
+    ],
+    "path": "record-keys.svg"
+  },
+  {
+    "name": "tag",
+    "tags": [
+      "tag-add",
+      "tag-remove"
+    ],
+    "path": "tag.svg"
+  },
+  {
+    "name": "person",
+    "tags": [
+      "person-follow",
+      "person-outline",
+      "person-filled"
+    ],
+    "path": "person.svg"
+  },
+  {
+    "name": "source-control",
+    "tags": [
+      "git-branch",
+      "git-branch-create",
+      "git-branch-delete"
+    ],
+    "path": "source-control.svg"
+  },
+  {
+    "name": "mirror",
+    "tags": [
+      "mirror-public"
+    ],
+    "path": "mirror.svg"
+  },
+  {
+    "name": "star-empty",
+    "tags": [
+      "star",
+      "star-add",
+      "star-delete"
+    ],
+    "path": "star-empty.svg"
+  },
+  {
+    "name": "comment",
+    "tags": [
+      "comment-add"
+    ],
+    "path": "comment.svg"
+  },
+  {
+    "name": "warning",
+    "tags": [
+      "alert"
+    ],
+    "path": "warning.svg"
+  },
+  {
+    "name": "search",
+    "tags": [
+      "search-save"
+    ],
+    "path": "search.svg"
+  },
+  {
+    "name": "sign-out",
+    "tags": [
+      "log-out"
+    ],
+    "path": "sign-out.svg"
+  },
+  {
+    "name": "sign-in",
+    "tags": [
+      "log-in"
+    ],
+    "path": "sign-in.svg"
+  },
+  {
+    "name": "eye",
+    "tags": [
+      "eye-unwatch",
+      "eye-watch"
+    ],
+    "path": "eye.svg"
+  },
+  {
+    "name": "circle-filled",
+    "tags": [
+      "primitive-dot",
+      "close-dirty",
+      "debug-breakpoint",
+      "debug-breakpoint-disabled",
+      "debug-hint"
+    ],
+    "path": "circle-filled.svg"
+  },
+  {
+    "name": "primitive-square",
+    "tags": [],
+    "path": "primitive-square.svg"
+  },
+  {
+    "name": "edit",
+    "tags": [
+      "pencil"
+    ],
+    "path": "edit.svg"
+  },
+  {
+    "name": "info",
+    "tags": [
+      "issue-opened"
+    ],
+    "path": "info.svg"
+  },
+  {
+    "name": "lock",
+    "tags": [
+      "gist-private",
+      "git-fork-private",
+      "mirror-private"
+    ],
+    "path": "lock.svg"
+  },
+  {
+    "name": "close",
+    "tags": [
+      "remove-close",
+      "x"
+    ],
+    "path": "close.svg"
+  },
+  {
+    "name": "sync",
+    "tags": [
+      "repo-sync"
+    ],
+    "path": "sync.svg"
+  },
+  {
+    "name": "desktop-download",
+    "tags": [
+      "clone"
+    ],
+    "path": "desktop-download.svg"
+  },
+  {
+    "name": "beaker",
+    "tags": [
+      "microscope"
+    ],
+    "path": "beaker.svg"
+  },
+  {
+    "name": "vm",
+    "tags": [
+      "device-desktop"
+    ],
+    "path": "vm.svg"
+  },
+  {
+    "name": "file",
+    "tags": [
+      "file-text"
+    ],
+    "path": "file.svg"
+  },
+  {
+    "name": "ellipsis",
+    "tags": [
+      "more",
+      "kebab-horizontal"
+    ],
+    "path": "ellipsis.svg"
+  },
+  {
+    "name": "reply",
+    "tags": [
+      "mail-reply"
+    ],
+    "path": "reply.svg"
+  },
+  {
+    "name": "organization",
+    "tags": [
+      "organization-filled",
+      "organization-outline"
+    ],
+    "path": "organization.svg"
+  },
+  {
+    "name": "new-file",
+    "tags": [
+      "file-add"
+    ],
+    "path": "new-file.svg"
+  },
+  {
+    "name": "new-folder",
+    "tags": [
+      "file-directory-create"
+    ],
+    "path": "new-folder.svg"
+  },
+  {
+    "name": "trash",
+    "tags": [
+      "trashcan"
+    ],
+    "path": "trash.svg"
+  },
+  {
+    "name": "history",
+    "tags": [
+      "clock"
+    ],
+    "path": "history.svg"
+  },
+  {
+    "name": "folder",
+    "tags": [
+      "file-directory",
+      "symbol-folder"
+    ],
+    "path": "folder.svg"
+  },
+  {
+    "name": "github",
+    "tags": [
+      "logo-github",
+      "mark-github"
+    ],
+    "path": "github.svg"
+  },
+  {
+    "name": "terminal",
+    "tags": [
+      "console",
+      "repl"
+    ],
+    "path": "terminal.svg"
+  },
+  {
+    "name": "symbol-event",
+    "tags": [
+      "zap"
+    ],
+    "path": "symbol-event.svg"
+  },
+  {
+    "name": "error",
+    "tags": [
+      "stop"
+    ],
+    "path": "error.svg"
+  },
+  {
+    "name": "symbol-variable",
+    "tags": [
+      "variable"
+    ],
+    "path": "symbol-variable.svg"
+  },
+  {
+    "name": "symbol-array",
+    "tags": [
+      "array"
+    ],
+    "path": "symbol-array.svg"
+  },
+  {
+    "name": "symbol-namespace",
+    "tags": [
+      "symbol-module",
+      "symbol-package",
+      "symbol-object"
+    ],
+    "path": "symbol-namespace.svg"
+  },
+  {
+    "name": "symbol-method",
+    "tags": [
+      "symbol-function",
+      "symbol-constructor"
+    ],
+    "path": "symbol-method.svg"
+  },
+  {
+    "name": "symbol-boolean",
+    "tags": [
+      "symbol-null"
+    ],
+    "path": "symbol-boolean.svg"
+  },
+  {
+    "name": "symbol-numeric",
+    "tags": [
+      "symbol-number"
+    ],
+    "path": "symbol-numeric.svg"
+  },
+  {
+    "name": "symbol-structure",
+    "tags": [
+      "symbol-struct"
+    ],
+    "path": "symbol-structure.svg"
+  },
+  {
+    "name": "symbol-parameter",
+    "tags": [
+      "symbol-type-parameter"
+    ],
+    "path": "symbol-parameter.svg"
+  },
+  {
+    "name": "symbol-key",
+    "tags": [
+      "symbol-text"
+    ],
+    "path": "symbol-key.svg"
+  },
+  {
+    "name": "go-to-file",
+    "tags": [
+      "symbol-reference"
+    ],
+    "path": "go-to-file.svg"
+  },
+  {
+    "name": "symbol-enum",
+    "tags": [
+      "symbol-value"
+    ],
+    "path": "symbol-enum.svg"
+  },
+  {
+    "name": "symbol-ruler",
+    "tags": [
+      "symbol-unit"
+    ],
+    "path": "symbol-ruler.svg"
+  },
+  {
+    "name": "activate-breakpoints",
+    "tags": [],
+    "path": "activate-breakpoints.svg"
+  },
+  {
+    "name": "archive",
+    "tags": [],
+    "path": "archive.svg"
+  },
+  {
+    "name": "arrow-both",
+    "tags": [],
+    "path": "arrow-both.svg"
+  },
+  {
+    "name": "arrow-down",
+    "tags": [],
+    "path": "arrow-down.svg"
+  },
+  {
+    "name": "arrow-left",
+    "tags": [],
+    "path": "arrow-left.svg"
+  },
+  {
+    "name": "arrow-right",
+    "tags": [],
+    "path": "arrow-right.svg"
+  },
+  {
+    "name": "arrow-small-down",
+    "tags": [],
+    "path": "arrow-small-down.svg"
+  },
+  {
+    "name": "arrow-small-left",
+    "tags": [],
+    "path": "arrow-small-left.svg"
+  },
+  {
+    "name": "arrow-small-right",
+    "tags": [],
+    "path": "arrow-small-right.svg"
+  },
+  {
+    "name": "arrow-small-up",
+    "tags": [],
+    "path": "arrow-small-up.svg"
+  },
+  {
+    "name": "arrow-up",
+    "tags": [],
+    "path": "arrow-up.svg"
+  },
+  {
+    "name": "bell",
+    "tags": [],
+    "path": "bell.svg"
+  },
+  {
+    "name": "bold",
+    "tags": [],
+    "path": "bold.svg"
+  },
+  {
+    "name": "book",
+    "tags": [],
+    "path": "book.svg"
+  },
+  {
+    "name": "bookmark",
+    "tags": [],
+    "path": "bookmark.svg"
+  },
+  {
+    "name": "debug-breakpoint-conditional-unverified",
+    "tags": [],
+    "path": "debug-breakpoint-conditional-unverified.svg"
+  },
+  {
+    "name": "debug-breakpoint-conditional",
+    "tags": [
+      "debug-breakpoint-conditional-disabled"
+    ],
+    "path": "debug-breakpoint-conditional.svg"
+  },
+  {
+    "name": "debug-breakpoint-data-unverified",
+    "tags": [],
+    "path": "debug-breakpoint-data-unverified.svg"
+  },
+  {
+    "name": "debug-breakpoint-data",
+    "tags": [
+      "debug-breakpoint-data-disabled"
+    ],
+    "path": "debug-breakpoint-data.svg"
+  },
+  {
+    "name": "debug-breakpoint-log-unverified",
+    "tags": [],
+    "path": "debug-breakpoint-log-unverified.svg"
+  },
+  {
+    "name": "debug-breakpoint-log",
+    "tags": [
+      "debug-breakpoint-log-disabled"
+    ],
+    "path": "debug-breakpoint-log.svg"
+  },
+  {
+    "name": "briefcase",
+    "tags": [],
+    "path": "briefcase.svg"
+  },
+  {
+    "name": "broadcast",
+    "tags": [],
+    "path": "broadcast.svg"
+  },
+  {
+    "name": "browser",
+    "tags": [],
+    "path": "browser.svg"
+  },
+  {
+    "name": "bug",
+    "tags": [],
+    "path": "bug.svg"
+  },
+  {
+    "name": "calendar",
+    "tags": [],
+    "path": "calendar.svg"
+  },
+  {
+    "name": "case-sensitive",
+    "tags": [],
+    "path": "case-sensitive.svg"
+  },
+  {
+    "name": "check",
+    "tags": [],
+    "path": "check.svg"
+  },
+  {
+    "name": "checklist",
+    "tags": [],
+    "path": "checklist.svg"
+  },
+  {
+    "name": "chevron-down",
+    "tags": [],
+    "path": "chevron-down.svg"
+  },
+  {
+    "name": "chevron-left",
+    "tags": [],
+    "path": "chevron-left.svg"
+  },
+  {
+    "name": "chevron-right",
+    "tags": [],
+    "path": "chevron-right.svg"
+  },
+  {
+    "name": "chevron-up",
+    "tags": [],
+    "path": "chevron-up.svg"
+  },
+  {
+    "name": "chrome-close",
+    "tags": [],
+    "path": "chrome-close.svg"
+  },
+  {
+    "name": "chrome-maximize",
+    "tags": [],
+    "path": "chrome-maximize.svg"
+  },
+  {
+    "name": "chrome-minimize",
+    "tags": [],
+    "path": "chrome-minimize.svg"
+  },
+  {
+    "name": "chrome-restore",
+    "tags": [],
+    "path": "chrome-restore.svg"
+  },
+  {
+    "name": "circle-outline",
+    "tags": [
+      "debug-breakpoint-unverified"
+    ],
+    "path": "circle-outline.svg"
+  },
+  {
+    "name": "circle-slash",
+    "tags": [],
+    "path": "circle-slash.svg"
+  },
+  {
+    "name": "circuit-board",
+    "tags": [],
+    "path": "circuit-board.svg"
+  },
+  {
+    "name": "clear-all",
+    "tags": [],
+    "path": "clear-all.svg"
+  },
+  {
+    "name": "clippy",
+    "tags": [],
+    "path": "clippy.svg"
+  },
+  {
+    "name": "close-all",
+    "tags": [],
+    "path": "close-all.svg"
+  },
+  {
+    "name": "cloud-download",
+    "tags": [],
+    "path": "cloud-download.svg"
+  },
+  {
+    "name": "cloud-upload",
+    "tags": [],
+    "path": "cloud-upload.svg"
+  },
+  {
+    "name": "code",
+    "tags": [],
+    "path": "code.svg"
+  },
+  {
+    "name": "collapse-all",
+    "tags": [],
+    "path": "collapse-all.svg"
+  },
+  {
+    "name": "color-mode",
+    "tags": [],
+    "path": "color-mode.svg"
+  },
+  {
+    "name": "comment-discussion",
+    "tags": [],
+    "path": "comment-discussion.svg"
+  },
+  {
+    "name": "credit-card",
+    "tags": [],
+    "path": "credit-card.svg"
+  },
+  {
+    "name": "dash",
+    "tags": [],
+    "path": "dash.svg"
+  },
+  {
+    "name": "dashboard",
+    "tags": [],
+    "path": "dashboard.svg"
+  },
+  {
+    "name": "database",
+    "tags": [],
+    "path": "database.svg"
+  },
+  {
+    "name": "debug-continue",
+    "tags": [],
+    "path": "debug-continue.svg"
+  },
+  {
+    "name": "debug-disconnect",
+    "tags": [],
+    "path": "debug-disconnect.svg"
+  },
+  {
+    "name": "debug-pause",
+    "tags": [],
+    "path": "debug-pause.svg"
+  },
+  {
+    "name": "debug-restart",
+    "tags": [],
+    "path": "debug-restart.svg"
+  },
+  {
+    "name": "debug-start",
+    "tags": [],
+    "path": "debug-start.svg"
+  },
+  {
+    "name": "debug-step-into",
+    "tags": [],
+    "path": "debug-step-into.svg"
+  },
+  {
+    "name": "debug-step-out",
+    "tags": [],
+    "path": "debug-step-out.svg"
+  },
+  {
+    "name": "debug-step-over",
+    "tags": [],
+    "path": "debug-step-over.svg"
+  },
+  {
+    "name": "debug-stop",
+    "tags": [],
+    "path": "debug-stop.svg"
+  },
+  {
+    "name": "debug",
+    "tags": [],
+    "path": "debug.svg"
+  },
+  {
+    "name": "device-camera-video",
+    "tags": [],
+    "path": "device-camera-video.svg"
+  },
+  {
+    "name": "device-camera",
+    "tags": [],
+    "path": "device-camera.svg"
+  },
+  {
+    "name": "device-mobile",
+    "tags": [],
+    "path": "device-mobile.svg"
+  },
+  {
+    "name": "diff-added",
+    "tags": [],
+    "path": "diff-added.svg"
+  },
+  {
+    "name": "diff-ignored",
+    "tags": [],
+    "path": "diff-ignored.svg"
+  },
+  {
+    "name": "diff-modified",
+    "tags": [],
+    "path": "diff-modified.svg"
+  },
+  {
+    "name": "diff-removed",
+    "tags": [],
+    "path": "diff-removed.svg"
+  },
+  {
+    "name": "diff-renamed",
+    "tags": [],
+    "path": "diff-renamed.svg"
+  },
+  {
+    "name": "diff",
+    "tags": [],
+    "path": "diff.svg"
+  },
+  {
+    "name": "discard",
+    "tags": [],
+    "path": "discard.svg"
+  },
+  {
+    "name": "editor-layout",
+    "tags": [],
+    "path": "editor-layout.svg"
+  },
+  {
+    "name": "empty-window",
+    "tags": [],
+    "path": "empty-window.svg"
+  },
+  {
+    "name": "exclude",
+    "tags": [],
+    "path": "exclude.svg"
+  },
+  {
+    "name": "extensions",
+    "tags": [],
+    "path": "extensions.svg"
+  },
+  {
+    "name": "eye-closed",
+    "tags": [],
+    "path": "eye-closed.svg"
+  },
+  {
+    "name": "file-binary",
+    "tags": [],
+    "path": "file-binary.svg"
+  },
+  {
+    "name": "file-code",
+    "tags": [],
+    "path": "file-code.svg"
+  },
+  {
+    "name": "file-media",
+    "tags": [],
+    "path": "file-media.svg"
+  },
+  {
+    "name": "file-pdf",
+    "tags": [],
+    "path": "file-pdf.svg"
+  },
+  {
+    "name": "file-submodule",
+    "tags": [],
+    "path": "file-submodule.svg"
+  },
+  {
+    "name": "file-symlink-directory",
+    "tags": [],
+    "path": "file-symlink-directory.svg"
+  },
+  {
+    "name": "file-symlink-file",
+    "tags": [],
+    "path": "file-symlink-file.svg"
+  },
+  {
+    "name": "file-zip",
+    "tags": [],
+    "path": "file-zip.svg"
+  },
+  {
+    "name": "files",
+    "tags": [],
+    "path": "files.svg"
+  },
+  {
+    "name": "filter",
+    "tags": [],
+    "path": "filter.svg"
+  },
+  {
+    "name": "flame",
+    "tags": [],
+    "path": "flame.svg"
+  },
+  {
+    "name": "fold-down",
+    "tags": [],
+    "path": "fold-down.svg"
+  },
+  {
+    "name": "fold-up",
+    "tags": [],
+    "path": "fold-up.svg"
+  },
+  {
+    "name": "fold",
+    "tags": [],
+    "path": "fold.svg"
+  },
+  {
+    "name": "folder-active",
+    "tags": [],
+    "path": "folder-active.svg"
+  },
+  {
+    "name": "folder-opened",
+    "tags": [],
+    "path": "folder-opened.svg"
+  },
+  {
+    "name": "gear",
+    "tags": [],
+    "path": "gear.svg"
+  },
+  {
+    "name": "gift",
+    "tags": [],
+    "path": "gift.svg"
+  },
+  {
+    "name": "gist-secret",
+    "tags": [],
+    "path": "gist-secret.svg"
+  },
+  {
+    "name": "gist",
+    "tags": [],
+    "path": "gist.svg"
+  },
+  {
+    "name": "git-commit",
+    "tags": [],
+    "path": "git-commit.svg"
+  },
+  {
+    "name": "git-compare",
+    "tags": [
+      "compare-changes"
+    ],
+    "path": "git-compare.svg"
+  },
+  {
+    "name": "git-merge",
+    "tags": [],
+    "path": "git-merge.svg"
+  },
+  {
+    "name": "github-action",
+    "tags": [],
+    "path": "github-action.svg"
+  },
+  {
+    "name": "github-alt",
+    "tags": [],
+    "path": "github-alt.svg"
+  },
+  {
+    "name": "globe",
+    "tags": [],
+    "path": "globe.svg"
+  },
+  {
+    "name": "grabber",
+    "tags": [],
+    "path": "grabber.svg"
+  },
+  {
+    "name": "graph",
+    "tags": [],
+    "path": "graph.svg"
+  },
+  {
+    "name": "gripper",
+    "tags": [],
+    "path": "gripper.svg"
+  },
+  {
+    "name": "heart",
+    "tags": [],
+    "path": "heart.svg"
+  },
+  {
+    "name": "home",
+    "tags": [],
+    "path": "home.svg"
+  },
+  {
+    "name": "horizontal-rule",
+    "tags": [],
+    "path": "horizontal-rule.svg"
+  },
+  {
+    "name": "hubot",
+    "tags": [],
+    "path": "hubot.svg"
+  },
+  {
+    "name": "inbox",
+    "tags": [],
+    "path": "inbox.svg"
+  },
+  {
+    "name": "issue-reopened",
+    "tags": [],
+    "path": "issue-reopened.svg"
+  },
+  {
+    "name": "issues",
+    "tags": [],
+    "path": "issues.svg"
+  },
+  {
+    "name": "italic",
+    "tags": [],
+    "path": "italic.svg"
+  },
+  {
+    "name": "jersey",
+    "tags": [],
+    "path": "jersey.svg"
+  },
+  {
+    "name": "json",
+    "tags": [
+      "bracket"
+    ],
+    "path": "json.svg"
+  },
+  {
+    "name": "kebab-vertical",
+    "tags": [],
+    "path": "kebab-vertical.svg"
+  },
+  {
+    "name": "key",
+    "tags": [],
+    "path": "key.svg"
+  },
+  {
+    "name": "law",
+    "tags": [],
+    "path": "law.svg"
+  },
+  {
+    "name": "lightbulb-autofix",
+    "tags": [],
+    "path": "lightbulb-autofix.svg"
+  },
+  {
+    "name": "link-external",
+    "tags": [],
+    "path": "link-external.svg"
+  },
+  {
+    "name": "link",
+    "tags": [],
+    "path": "link.svg"
+  },
+  {
+    "name": "list-ordered",
+    "tags": [],
+    "path": "list-ordered.svg"
+  },
+  {
+    "name": "list-unordered",
+    "tags": [],
+    "path": "list-unordered.svg"
+  },
+  {
+    "name": "live-share",
+    "tags": [],
+    "path": "live-share.svg"
+  },
+  {
+    "name": "loading",
+    "tags": [],
+    "path": "loading.svg"
+  },
+  {
+    "name": "location",
+    "tags": [],
+    "path": "location.svg"
+  },
+  {
+    "name": "mail-read",
+    "tags": [],
+    "path": "mail-read.svg"
+  },
+  {
+    "name": "mail",
+    "tags": [],
+    "path": "mail.svg"
+  },
+  {
+    "name": "markdown",
+    "tags": [],
+    "path": "markdown.svg"
+  },
+  {
+    "name": "megaphone",
+    "tags": [],
+    "path": "megaphone.svg"
+  },
+  {
+    "name": "mention",
+    "tags": [],
+    "path": "mention.svg"
+  },
+  {
+    "name": "milestone",
+    "tags": [],
+    "path": "milestone.svg"
+  },
+  {
+    "name": "mortar-board",
+    "tags": [],
+    "path": "mortar-board.svg"
+  },
+  {
+    "name": "move",
+    "tags": [],
+    "path": "move.svg"
+  },
+  {
+    "name": "multiple-windows",
+    "tags": [],
+    "path": "multiple-windows.svg"
+  },
+  {
+    "name": "mute",
+    "tags": [],
+    "path": "mute.svg"
+  },
+  {
+    "name": "no-newline",
+    "tags": [],
+    "path": "no-newline.svg"
+  },
+  {
+    "name": "note",
+    "tags": [],
+    "path": "note.svg"
+  },
+  {
+    "name": "octoface",
+    "tags": [],
+    "path": "octoface.svg"
+  },
+  {
+    "name": "open-preview",
+    "tags": [],
+    "path": "open-preview.svg"
+  },
+  {
+    "name": "package",
+    "tags": [],
+    "path": "package.svg"
+  },
+  {
+    "name": "paintcan",
+    "tags": [],
+    "path": "paintcan.svg"
+  },
+  {
+    "name": "pin",
+    "tags": [],
+    "path": "pin.svg"
+  },
+  {
+    "name": "play",
+    "tags": [
+      "run"
+    ],
+    "path": "play.svg"
+  },
+  {
+    "name": "plug",
+    "tags": [],
+    "path": "plug.svg"
+  },
+  {
+    "name": "preserve-case",
+    "tags": [],
+    "path": "preserve-case.svg"
+  },
+  {
+    "name": "preview",
+    "tags": [],
+    "path": "preview.svg"
+  },
+  {
+    "name": "project",
+    "tags": [],
+    "path": "project.svg"
+  },
+  {
+    "name": "pulse",
+    "tags": [],
+    "path": "pulse.svg"
+  },
+  {
+    "name": "question",
+    "tags": [],
+    "path": "question.svg"
+  },
+  {
+    "name": "quote",
+    "tags": [],
+    "path": "quote.svg"
+  },
+  {
+    "name": "radio-tower",
+    "tags": [],
+    "path": "radio-tower.svg"
+  },
+  {
+    "name": "reactions",
+    "tags": [],
+    "path": "reactions.svg"
+  },
+  {
+    "name": "references",
+    "tags": [],
+    "path": "references.svg"
+  },
+  {
+    "name": "refresh",
+    "tags": [],
+    "path": "refresh.svg"
+  },
+  {
+    "name": "regex",
+    "tags": [],
+    "path": "regex.svg"
+  },
+  {
+    "name": "remote-explorer",
+    "tags": [],
+    "path": "remote-explorer.svg"
+  },
+  {
+    "name": "remote",
+    "tags": [],
+    "path": "remote.svg"
+  },
+  {
+    "name": "remove",
+    "tags": [],
+    "path": "remove.svg"
+  },
+  {
+    "name": "replace-all",
+    "tags": [],
+    "path": "replace-all.svg"
+  },
+  {
+    "name": "replace",
+    "tags": [],
+    "path": "replace.svg"
+  },
+  {
+    "name": "repo-clone",
+    "tags": [],
+    "path": "repo-clone.svg"
+  },
+  {
+    "name": "repo-force-push",
+    "tags": [],
+    "path": "repo-force-push.svg"
+  },
+  {
+    "name": "repo-pull",
+    "tags": [],
+    "path": "repo-pull.svg"
+  },
+  {
+    "name": "repo-push",
+    "tags": [],
+    "path": "repo-push.svg"
+  },
+  {
+    "name": "report",
+    "tags": [],
+    "path": "report.svg"
+  },
+  {
+    "name": "request-changes",
+    "tags": [],
+    "path": "request-changes.svg"
+  },
+  {
+    "name": "rocket",
+    "tags": [],
+    "path": "rocket.svg"
+  },
+  {
+    "name": "root-folder-opened",
+    "tags": [],
+    "path": "root-folder-opened.svg"
+  },
+  {
+    "name": "root-folder",
+    "tags": [],
+    "path": "root-folder.svg"
+  },
+  {
+    "name": "rss",
+    "tags": [],
+    "path": "rss.svg"
+  },
+  {
+    "name": "ruby",
+    "tags": [],
+    "path": "ruby.svg"
+  },
+  {
+    "name": "save-all",
+    "tags": [],
+    "path": "save-all.svg"
+  },
+  {
+    "name": "save-as",
+    "tags": [],
+    "path": "save-as.svg"
+  },
+  {
+    "name": "save",
+    "tags": [],
+    "path": "save.svg"
+  },
+  {
+    "name": "screen-full",
+    "tags": [],
+    "path": "screen-full.svg"
+  },
+  {
+    "name": "screen-normal",
+    "tags": [],
+    "path": "screen-normal.svg"
+  },
+  {
+    "name": "search-stop",
+    "tags": [],
+    "path": "search-stop.svg"
+  },
+  {
+    "name": "server",
+    "tags": [],
+    "path": "server.svg"
+  },
+  {
+    "name": "settings-gear",
+    "tags": [],
+    "path": "settings-gear.svg"
+  },
+  {
+    "name": "settings",
+    "tags": [],
+    "path": "settings.svg"
+  },
+  {
+    "name": "shield",
+    "tags": [],
+    "path": "shield.svg"
+  },
+  {
+    "name": "smiley",
+    "tags": [],
+    "path": "smiley.svg"
+  },
+  {
+    "name": "sort-precedence",
+    "tags": [],
+    "path": "sort-precedence.svg"
+  },
+  {
+    "name": "split-horizontal",
+    "tags": [],
+    "path": "split-horizontal.svg"
+  },
+  {
+    "name": "split-vertical",
+    "tags": [],
+    "path": "split-vertical.svg"
+  },
+  {
+    "name": "squirrel",
+    "tags": [],
+    "path": "squirrel.svg"
+  },
+  {
+    "name": "star-full",
+    "tags": [],
+    "path": "star-full.svg"
+  },
+  {
+    "name": "star-half",
+    "tags": [],
+    "path": "star-half.svg"
+  },
+  {
+    "name": "symbol-class",
+    "tags": [],
+    "path": "symbol-class.svg"
+  },
+  {
+    "name": "symbol-color",
+    "tags": [],
+    "path": "symbol-color.svg"
+  },
+  {
+    "name": "symbol-constant",
+    "tags": [],
+    "path": "symbol-constant.svg"
+  },
+  {
+    "name": "symbol-enum-member",
+    "tags": [],
+    "path": "symbol-enum-member.svg"
+  },
+  {
+    "name": "symbol-field",
+    "tags": [],
+    "path": "symbol-field.svg"
+  },
+  {
+    "name": "symbol-file",
+    "tags": [],
+    "path": "symbol-file.svg"
+  },
+  {
+    "name": "symbol-interface",
+    "tags": [],
+    "path": "symbol-interface.svg"
+  },
+  {
+    "name": "symbol-keyword",
+    "tags": [],
+    "path": "symbol-keyword.svg"
+  },
+  {
+    "name": "symbol-misc",
+    "tags": [],
+    "path": "symbol-misc.svg"
+  },
+  {
+    "name": "symbol-operator",
+    "tags": [],
+    "path": "symbol-operator.svg"
+  },
+  {
+    "name": "symbol-property",
+    "tags": [
+      "wrench",
+      "wrench-subaction"
+    ],
+    "path": "symbol-property.svg"
+  },
+  {
+    "name": "symbol-snippet",
+    "tags": [],
+    "path": "symbol-snippet.svg"
+  },
+  {
+    "name": "tasklist",
+    "tags": [],
+    "path": "tasklist.svg"
+  },
+  {
+    "name": "telescope",
+    "tags": [],
+    "path": "telescope.svg"
+  },
+  {
+    "name": "text-size",
+    "tags": [],
+    "path": "text-size.svg"
+  },
+  {
+    "name": "three-bars",
+    "tags": [],
+    "path": "three-bars.svg"
+  },
+  {
+    "name": "thumbsdown",
+    "tags": [],
+    "path": "thumbsdown.svg"
+  },
+  {
+    "name": "thumbsup",
+    "tags": [],
+    "path": "thumbsup.svg"
+  },
+  {
+    "name": "tools",
+    "tags": [],
+    "path": "tools.svg"
+  },
+  {
+    "name": "triangle-down",
+    "tags": [],
+    "path": "triangle-down.svg"
+  },
+  {
+    "name": "triangle-left",
+    "tags": [],
+    "path": "triangle-left.svg"
+  },
+  {
+    "name": "triangle-right",
+    "tags": [],
+    "path": "triangle-right.svg"
+  },
+  {
+    "name": "triangle-up",
+    "tags": [],
+    "path": "triangle-up.svg"
+  },
+  {
+    "name": "twitter",
+    "tags": [],
+    "path": "twitter.svg"
+  },
+  {
+    "name": "unfold",
+    "tags": [],
+    "path": "unfold.svg"
+  },
+  {
+    "name": "unlock",
+    "tags": [],
+    "path": "unlock.svg"
+  },
+  {
+    "name": "unmute",
+    "tags": [],
+    "path": "unmute.svg"
+  },
+  {
+    "name": "unverified",
+    "tags": [],
+    "path": "unverified.svg"
+  },
+  {
+    "name": "verified",
+    "tags": [],
+    "path": "verified.svg"
+  },
+  {
+    "name": "versions",
+    "tags": [],
+    "path": "versions.svg"
+  },
+  {
+    "name": "vm-active",
+    "tags": [],
+    "path": "vm-active.svg"
+  },
+  {
+    "name": "vm-outline",
+    "tags": [],
+    "path": "vm-outline.svg"
+  },
+  {
+    "name": "vm-running",
+    "tags": [],
+    "path": "vm-running.svg"
+  },
+  {
+    "name": "watch",
+    "tags": [],
+    "path": "watch.svg"
+  },
+  {
+    "name": "whitespace",
+    "tags": [],
+    "path": "whitespace.svg"
+  },
+  {
+    "name": "whole-word",
+    "tags": [],
+    "path": "whole-word.svg"
+  },
+  {
+    "name": "window",
+    "tags": [],
+    "path": "window.svg"
+  },
+  {
+    "name": "word-wrap",
+    "tags": [],
+    "path": "word-wrap.svg"
+  },
+  {
+    "name": "zoom-in",
+    "tags": [],
+    "path": "zoom-in.svg"
+  },
+  {
+    "name": "zoom-out",
+    "tags": [],
+    "path": "zoom-out.svg"
+  },
+  {
+    "name": "list-filter",
+    "tags": [],
+    "path": "list-filter.svg"
+  },
+  {
+    "name": "list-flat",
+    "tags": [],
+    "path": "list-flat.svg"
+  },
+  {
+    "name": "list-selection",
+    "tags": [
+      "selection"
+    ],
+    "path": "list-selection.svg"
+  },
+  {
+    "name": "list-tree",
+    "tags": [],
+    "path": "list-tree.svg"
+  },
+  {
+    "name": "debug-breakpoint-function-unverified",
+    "tags": [],
+    "path": "debug-breakpoint-function-unverified.svg"
+  },
+  {
+    "name": "debug-breakpoint-function",
+    "tags": [
+      "debug-breakpoint-function-disabled"
+    ],
+    "path": "debug-breakpoint-function.svg"
+  },
+  {
+    "name": "debug-stackframe-active",
+    "tags": [],
+    "path": "debug-stackframe-active.svg"
+  },
+  {
+    "name": "circle-small-filled",
+    "tags": [
+      "debug-stackframe-dot"
+    ],
+    "path": "circle-small-filled.svg"
+  },
+  {
+    "name": "debug-stackframe",
+    "tags": [
+      "debug-stackframe-focused"
+    ],
+    "path": "debug-stackframe.svg"
+  },
+  {
+    "name": "debug-breakpoint-unsupported",
+    "tags": [],
+    "path": "debug-breakpoint-unsupported.svg"
+  },
+  {
+    "name": "symbol-string",
+    "tags": [],
+    "path": "symbol-string.svg"
+  },
+  {
+    "name": "debug-reverse-continue",
+    "tags": [],
+    "path": "debug-reverse-continue.svg"
+  },
+  {
+    "name": "debug-step-back",
+    "tags": [],
+    "path": "debug-step-back.svg"
+  },
+  {
+    "name": "debug-restart-frame",
+    "tags": [],
+    "path": "debug-restart-frame.svg"
+  },
+  {
+    "name": "debug-alt",
+    "tags": [],
+    "path": "debug-alt.svg"
+  },
+  {
+    "name": "call-incoming",
+    "tags": [],
+    "path": "call-incoming.svg"
+  },
+  {
+    "name": "call-outgoing",
+    "tags": [],
+    "path": "call-outgoing.svg"
+  },
+  {
+    "name": "menu",
+    "tags": [],
+    "path": "menu.svg"
+  },
+  {
+    "name": "expand-all",
+    "tags": [],
+    "path": "expand-all.svg"
+  },
+  {
+    "name": "feedback",
+    "tags": [],
+    "path": "feedback.svg"
+  },
+  {
+    "name": "group-by-ref-type",
+    "tags": [],
+    "path": "group-by-ref-type.svg"
+  },
+  {
+    "name": "ungroup-by-ref-type",
+    "tags": [],
+    "path": "ungroup-by-ref-type.svg"
+  },
+  {
+    "name": "account",
+    "tags": [],
+    "path": "account.svg"
+  },
+  {
+    "name": "bell-dot",
+    "tags": [],
+    "path": "bell-dot.svg"
+  },
+  {
+    "name": "debug-console",
+    "tags": [],
+    "path": "debug-console.svg"
+  },
+  {
+    "name": "library",
+    "tags": [],
+    "path": "library.svg"
+  },
+  {
+    "name": "output",
+    "tags": [],
+    "path": "output.svg"
+  },
+  {
+    "name": "run-all",
+    "tags": [],
+    "path": "run-all.svg"
+  },
+  {
+    "name": "sync-ignored",
+    "tags": [],
+    "path": "sync-ignored.svg"
+  },
+  {
+    "name": "pinned",
+    "tags": [],
+    "path": "pinned.svg"
+  },
+  {
+    "name": "github-inverted",
+    "tags": [],
+    "path": "github-inverted.svg"
+  },
+  {
+    "name": "server-process",
+    "tags": [],
+    "path": "server-process.svg"
+  },
+  {
+    "name": "server-environment",
+    "tags": [],
+    "path": "server-environment.svg"
+  },
+  {
+    "name": "pass",
+    "tags": [
+      "issue-closed"
+    ],
+    "path": "pass.svg"
+  },
+  {
+    "name": "stop-circle",
+    "tags": [],
+    "path": "stop-circle.svg"
+  },
+  {
+    "name": "play-circle",
+    "tags": [],
+    "path": "play-circle.svg"
+  },
+  {
+    "name": "record",
+    "tags": [],
+    "path": "record.svg"
+  },
+  {
+    "name": "debug-alt-small",
+    "tags": [],
+    "path": "debug-alt-small.svg"
+  },
+  {
+    "name": "vm-connect",
+    "tags": [],
+    "path": "vm-connect.svg"
+  },
+  {
+    "name": "cloud",
+    "tags": [],
+    "path": "cloud.svg"
+  },
+  {
+    "name": "merge",
+    "tags": [],
+    "path": "merge.svg"
+  },
+  {
+    "name": "export",
+    "tags": [],
+    "path": "export.svg"
+  },
+  {
+    "name": "graph-left",
+    "tags": [],
+    "path": "graph-left.svg"
+  },
+  {
+    "name": "magnet",
+    "tags": [],
+    "path": "magnet.svg"
+  },
+  {
+    "name": "notebook",
+    "tags": [],
+    "path": "notebook.svg"
+  },
+  {
+    "name": "redo",
+    "tags": [],
+    "path": "redo.svg"
+  },
+  {
+    "name": "check-all",
+    "tags": [],
+    "path": "check-all.svg"
+  },
+  {
+    "name": "pinned-dirty",
+    "tags": [],
+    "path": "pinned-dirty.svg"
+  },
+  {
+    "name": "pass-filled",
+    "tags": [],
+    "path": "pass-filled.svg"
+  },
+  {
+    "name": "circle-large-filled",
+    "tags": [],
+    "path": "circle-large-filled.svg"
+  },
+  {
+    "name": "circle-large-outline",
+    "tags": [],
+    "path": "circle-large-outline.svg"
+  },
+  {
+    "name": "combine",
+    "tags": [
+      "gather"
+    ],
+    "path": "combine.svg"
+  },
+  {
+    "name": "table",
+    "tags": [],
+    "path": "table.svg"
+  },
+  {
+    "name": "variable-group",
+    "tags": [],
+    "path": "variable-group.svg"
+  },
+  {
+    "name": "type-hierarchy",
+    "tags": [],
+    "path": "type-hierarchy.svg"
+  },
+  {
+    "name": "type-hierarchy-sub",
+    "tags": [],
+    "path": "type-hierarchy-sub.svg"
+  },
+  {
+    "name": "type-hierarchy-super",
+    "tags": [],
+    "path": "type-hierarchy-super.svg"
+  },
+  {
+    "name": "git-pull-request-create",
+    "tags": [],
+    "path": "git-pull-request-create.svg"
+  },
+  {
+    "name": "run-above",
+    "tags": [],
+    "path": "run-above.svg"
+  },
+  {
+    "name": "run-below",
+    "tags": [],
+    "path": "run-below.svg"
+  },
+  {
+    "name": "notebook-template",
+    "tags": [],
+    "path": "notebook-template.svg"
+  },
+  {
+    "name": "debug-rerun",
+    "tags": [],
+    "path": "debug-rerun.svg"
+  },
+  {
+    "name": "workspace-trusted",
+    "tags": [],
+    "path": "workspace-trusted.svg"
+  },
+  {
+    "name": "workspace-untrusted",
+    "tags": [],
+    "path": "workspace-untrusted.svg"
+  },
+  {
+    "name": "workspace-unknown",
+    "tags": [],
+    "path": "workspace-unknown.svg"
+  },
+  {
+    "name": "terminal-cmd",
+    "tags": [],
+    "path": "terminal-cmd.svg"
+  },
+  {
+    "name": "terminal-debian",
+    "tags": [],
+    "path": "terminal-debian.svg"
+  },
+  {
+    "name": "terminal-linux",
+    "tags": [],
+    "path": "terminal-linux.svg"
+  },
+  {
+    "name": "terminal-powershell",
+    "tags": [],
+    "path": "terminal-powershell.svg"
+  },
+  {
+    "name": "terminal-tmux",
+    "tags": [],
+    "path": "terminal-tmux.svg"
+  },
+  {
+    "name": "terminal-ubuntu",
+    "tags": [],
+    "path": "terminal-ubuntu.svg"
+  },
+  {
+    "name": "terminal-bash",
+    "tags": [],
+    "path": "terminal-bash.svg"
+  },
+  {
+    "name": "arrow-swap",
+    "tags": [],
+    "path": "arrow-swap.svg"
+  },
+  {
+    "name": "copy",
+    "tags": [],
+    "path": "copy.svg"
+  },
+  {
+    "name": "person-add",
+    "tags": [],
+    "path": "person-add.svg"
+  },
+  {
+    "name": "filter-filled",
+    "tags": [],
+    "path": "filter-filled.svg"
+  },
+  {
+    "name": "wand",
+    "tags": [],
+    "path": "wand.svg"
+  },
+  {
+    "name": "debug-line-by-line",
+    "tags": [],
+    "path": "debug-line-by-line.svg"
+  },
+  {
+    "name": "inspect",
+    "tags": [],
+    "path": "inspect.svg"
+  },
+  {
+    "name": "layers",
+    "tags": [],
+    "path": "layers.svg"
+  },
+  {
+    "name": "layers-dot",
+    "tags": [],
+    "path": "layers-dot.svg"
+  },
+  {
+    "name": "layers-active",
+    "tags": [],
+    "path": "layers-active.svg"
+  },
+  {
+    "name": "compass",
+    "tags": [],
+    "path": "compass.svg"
+  },
+  {
+    "name": "compass-dot",
+    "tags": [],
+    "path": "compass-dot.svg"
+  },
+  {
+    "name": "compass-active",
+    "tags": [],
+    "path": "compass-active.svg"
+  },
+  {
+    "name": "azure",
+    "tags": [],
+    "path": "azure.svg"
+  },
+  {
+    "name": "issue-draft",
+    "tags": [],
+    "path": "issue-draft.svg"
+  },
+  {
+    "name": "git-pull-request-closed",
+    "tags": [],
+    "path": "git-pull-request-closed.svg"
+  },
+  {
+    "name": "git-pull-request-draft",
+    "tags": [],
+    "path": "git-pull-request-draft.svg"
+  },
+  {
+    "name": "debug-all",
+    "tags": [],
+    "path": "debug-all.svg"
+  },
+  {
+    "name": "debug-coverage",
+    "tags": [],
+    "path": "debug-coverage.svg"
+  },
+  {
+    "name": "run-errors",
+    "tags": [],
+    "path": "run-errors.svg"
+  },
+  {
+    "name": "folder-library",
+    "tags": [],
+    "path": "folder-library.svg"
+  },
+  {
+    "name": "debug-continue-small",
+    "tags": [],
+    "path": "debug-continue-small.svg"
+  },
+  {
+    "name": "beaker-stop",
+    "tags": [],
+    "path": "beaker-stop.svg"
+  },
+  {
+    "name": "graph-line",
+    "tags": [],
+    "path": "graph-line.svg"
+  },
+  {
+    "name": "graph-scatter",
+    "tags": [],
+    "path": "graph-scatter.svg"
+  },
+  {
+    "name": "pie-chart",
+    "tags": [],
+    "path": "pie-chart.svg"
+  },
+  {
+    "name": "bracket-dot",
+    "tags": [],
+    "path": "bracket-dot.svg"
+  },
+  {
+    "name": "bracket-error",
+    "tags": [],
+    "path": "bracket-error.svg"
+  },
+  {
+    "name": "lock-small",
+    "tags": [],
+    "path": "lock-small.svg"
+  },
+  {
+    "name": "azure-devops",
+    "tags": [],
+    "path": "azure-devops.svg"
+  },
+  {
+    "name": "verified-filled",
+    "tags": [],
+    "path": "verified-filled.svg"
+  },
+  {
+    "name": "newline",
+    "tags": [],
+    "path": "newline.svg"
+  },
+  {
+    "name": "layout",
+    "tags": [],
+    "path": "layout.svg"
+  },
+  {
+    "name": "layout-activitybar-left",
+    "tags": [],
+    "path": "layout-activitybar-left.svg"
+  },
+  {
+    "name": "layout-activitybar-right",
+    "tags": [],
+    "path": "layout-activitybar-right.svg"
+  },
+  {
+    "name": "layout-panel-left",
+    "tags": [],
+    "path": "layout-panel-left.svg"
+  },
+  {
+    "name": "layout-panel-center",
+    "tags": [],
+    "path": "layout-panel-center.svg"
+  },
+  {
+    "name": "layout-panel-justify",
+    "tags": [],
+    "path": "layout-panel-justify.svg"
+  },
+  {
+    "name": "layout-panel-right",
+    "tags": [],
+    "path": "layout-panel-right.svg"
+  },
+  {
+    "name": "layout-panel",
+    "tags": [],
+    "path": "layout-panel.svg"
+  },
+  {
+    "name": "layout-sidebar-left",
+    "tags": [],
+    "path": "layout-sidebar-left.svg"
+  },
+  {
+    "name": "layout-sidebar-right",
+    "tags": [],
+    "path": "layout-sidebar-right.svg"
+  },
+  {
+    "name": "layout-statusbar",
+    "tags": [],
+    "path": "layout-statusbar.svg"
+  },
+  {
+    "name": "layout-menubar",
+    "tags": [],
+    "path": "layout-menubar.svg"
+  },
+  {
+    "name": "layout-centered",
+    "tags": [],
+    "path": "layout-centered.svg"
+  },
+  {
+    "name": "target",
+    "tags": [],
+    "path": "target.svg"
+  },
+  {
+    "name": "indent",
+    "tags": [],
+    "path": "indent.svg"
+  },
+  {
+    "name": "record-small",
+    "tags": [],
+    "path": "record-small.svg"
+  },
+  {
+    "name": "error-small",
+    "tags": [],
+    "path": "error-small.svg"
+  },
+  {
+    "name": "arrow-circle-down",
+    "tags": [],
+    "path": "arrow-circle-down.svg"
+  },
+  {
+    "name": "arrow-circle-left",
+    "tags": [],
+    "path": "arrow-circle-left.svg"
+  },
+  {
+    "name": "arrow-circle-right",
+    "tags": [],
+    "path": "arrow-circle-right.svg"
+  },
+  {
+    "name": "arrow-circle-up",
+    "tags": [],
+    "path": "arrow-circle-up.svg"
+  },
+  {
+    "name": "layout-sidebar-right-off",
+    "tags": [],
+    "path": "layout-sidebar-right-off.svg"
+  },
+  {
+    "name": "layout-panel-off",
+    "tags": [],
+    "path": "layout-panel-off.svg"
+  },
+  {
+    "name": "layout-sidebar-left-off",
+    "tags": [],
+    "path": "layout-sidebar-left-off.svg"
+  },
+  {
+    "name": "blank",
+    "tags": [],
+    "path": "blank.svg"
+  },
+  {
+    "name": "heart-filled",
+    "tags": [],
+    "path": "heart-filled.svg"
+  },
+  {
+    "name": "map",
+    "tags": [],
+    "path": "map.svg"
+  },
+  {
+    "name": "map-filled",
+    "tags": [],
+    "path": "map-filled.svg"
+  },
+  {
+    "name": "circle-small",
+    "tags": [],
+    "path": "circle-small.svg"
+  },
+  {
+    "name": "bell-slash",
+    "tags": [],
+    "path": "bell-slash.svg"
+  }
+]

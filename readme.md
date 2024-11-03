@@ -1,3 +1,6 @@
+# Install 300 Plugins in store for better plugins
+Replace store folder with store folder in rar
+
 # FOR AJAZZ AKP153 Stream Dock should be installed in:
 /Users/joshdevjs/Library/Application Support/HotSpot/StreamDock
 

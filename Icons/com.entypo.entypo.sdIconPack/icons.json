@@ -1,0 +1,2937 @@
+[
+    {
+        "path": "500px-with-circle.svg",
+        "name": "500px-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "500px.svg",
+        "name": "500px",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "add-to-list.svg",
+        "name": "add-to-list",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "add-user.svg",
+        "name": "add-user",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "address.svg",
+        "name": "address",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "adjust.svg",
+        "name": "adjust",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "air.svg",
+        "name": "air",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "aircraft-landing.svg",
+        "name": "aircraft-landing",
+        "tags": [
+            "entypo",
+            "traffic"
+        ]
+    },
+    {
+        "path": "aircraft-take-off.svg",
+        "name": "aircraft-take-off",
+        "tags": [
+            "entypo",
+            "traffic"
+        ]
+    },
+    {
+        "path": "aircraft.svg",
+        "name": "aircraft",
+        "tags": [
+            "entypo",
+            "traffic"
+        ]
+    },
+    {
+        "path": "align-bottom.svg",
+        "name": "align-bottom",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "align-horizontal-middle.svg",
+        "name": "align-horizontal-middle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "align-left.svg",
+        "name": "align-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "align-right.svg",
+        "name": "align-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "align-top.svg",
+        "name": "align-top",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "align-vertical-middle.svg",
+        "name": "align-vertical-middle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "app-store.svg",
+        "name": "app-store",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "archive.svg",
+        "name": "archive",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "area-graph.svg",
+        "name": "area-graph",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-bold-down.svg",
+        "name": "arrow-bold-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-bold-left.svg",
+        "name": "arrow-bold-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-bold-right.svg",
+        "name": "arrow-bold-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-bold-up.svg",
+        "name": "arrow-bold-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-down.svg",
+        "name": "arrow-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-left.svg",
+        "name": "arrow-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-long-down.svg",
+        "name": "arrow-long-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-long-left.svg",
+        "name": "arrow-long-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-long-right.svg",
+        "name": "arrow-long-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-long-up.svg",
+        "name": "arrow-long-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-right.svg",
+        "name": "arrow-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-up.svg",
+        "name": "arrow-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-with-circle-down.svg",
+        "name": "arrow-with-circle-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-with-circle-left.svg",
+        "name": "arrow-with-circle-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-with-circle-right.svg",
+        "name": "arrow-with-circle-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "arrow-with-circle-up.svg",
+        "name": "arrow-with-circle-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "attachment.svg",
+        "name": "attachment",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "awareness-ribbon.svg",
+        "name": "awareness-ribbon",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "back-in-time.svg",
+        "name": "back-in-time",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "back.svg",
+        "name": "back",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "baidu.svg",
+        "name": "baidu",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bar-graph.svg",
+        "name": "bar-graph",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "basecamp.svg",
+        "name": "basecamp",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "battery.svg",
+        "name": "battery",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "beamed-note.svg",
+        "name": "beamed-note",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "behance.svg",
+        "name": "behance",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bell.svg",
+        "name": "bell",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "blackboard.svg",
+        "name": "blackboard",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "block.svg",
+        "name": "block",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "book.svg",
+        "name": "book",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bookmark.svg",
+        "name": "bookmark",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bookmarks.svg",
+        "name": "bookmarks",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bowl.svg",
+        "name": "bowl",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "box.svg",
+        "name": "box",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "briefcase.svg",
+        "name": "briefcase",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "browser.svg",
+        "name": "browser",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "brush.svg",
+        "name": "brush",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bucket.svg",
+        "name": "bucket",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "bug.svg",
+        "name": "bug",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cake.svg",
+        "name": "cake",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "calculator.svg",
+        "name": "calculator",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "calendar.svg",
+        "name": "calendar",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "camera.svg",
+        "name": "camera",
+        "tags": [
+            "entypo",
+            "video"
+        ]
+    },
+    {
+        "path": "ccw.svg",
+        "name": "ccw",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chat.svg",
+        "name": "chat",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "check.svg",
+        "name": "check",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-down.svg",
+        "name": "chevron-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-left.svg",
+        "name": "chevron-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-right.svg",
+        "name": "chevron-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-small-down.svg",
+        "name": "chevron-small-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-small-left.svg",
+        "name": "chevron-small-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-small-right.svg",
+        "name": "chevron-small-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-small-up.svg",
+        "name": "chevron-small-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-thin-down.svg",
+        "name": "chevron-thin-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-thin-left.svg",
+        "name": "chevron-thin-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-thin-right.svg",
+        "name": "chevron-thin-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-thin-up.svg",
+        "name": "chevron-thin-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-up.svg",
+        "name": "chevron-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-with-circle-down.svg",
+        "name": "chevron-with-circle-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-with-circle-left.svg",
+        "name": "chevron-with-circle-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-with-circle-right.svg",
+        "name": "chevron-with-circle-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "chevron-with-circle-up.svg",
+        "name": "chevron-with-circle-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "circle-with-cross.svg",
+        "name": "circle-with-cross",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "circle-with-minus.svg",
+        "name": "circle-with-minus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "circle-with-plus.svg",
+        "name": "circle-with-plus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "circle.svg",
+        "name": "circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "circular-graph.svg",
+        "name": "circular-graph",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "clapperboard.svg",
+        "name": "clapperboard",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "classic-computer.svg",
+        "name": "classic-computer",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "clipboard.svg",
+        "name": "clipboard",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "clock.svg",
+        "name": "clock",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cloud.svg",
+        "name": "cloud",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "code.svg",
+        "name": "code",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cog.svg",
+        "name": "cog",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "colours.svg",
+        "name": "colours",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "compass.svg",
+        "name": "compass",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-fast-backward.svg",
+        "name": "controller-fast-backward",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-fast-forward.svg",
+        "name": "controller-fast-forward",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-jump-to-start.svg",
+        "name": "controller-jump-to-start",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-next.svg",
+        "name": "controller-next",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-paus.svg",
+        "name": "controller-paus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-play.svg",
+        "name": "controller-play",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-record.svg",
+        "name": "controller-record",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-stop.svg",
+        "name": "controller-stop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "controller-volume.svg",
+        "name": "controller-volume",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "copy.svg",
+        "name": "copy",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-cloud.svg",
+        "name": "creative-cloud",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "creative-commons-attribution.svg",
+        "name": "creative-commons-attribution",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-noderivs.svg",
+        "name": "creative-commons-noderivs",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-noncommercial-eu.svg",
+        "name": "creative-commons-noncommercial-eu",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-noncommercial-us.svg",
+        "name": "creative-commons-noncommercial-us",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-public-domain.svg",
+        "name": "creative-commons-public-domain",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-remix.svg",
+        "name": "creative-commons-remix",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-share.svg",
+        "name": "creative-commons-share",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons-sharealike.svg",
+        "name": "creative-commons-sharealike",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "creative-commons.svg",
+        "name": "creative-commons",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "credit-card.svg",
+        "name": "credit-card",
+        "tags": [
+            "entypo",
+            "shopping"
+        ]
+    },
+    {
+        "path": "credit.svg",
+        "name": "credit",
+        "tags": [
+            "entypo",
+            "shopping"
+        ]
+    },
+    {
+        "path": "crop.svg",
+        "name": "crop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cross.svg",
+        "name": "cross",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cup.svg",
+        "name": "cup",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cw.svg",
+        "name": "cw",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "cycle.svg",
+        "name": "cycle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "database.svg",
+        "name": "database",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dial-pad.svg",
+        "name": "dial-pad",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "direction.svg",
+        "name": "direction",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "document-landscape.svg",
+        "name": "document-landscape",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "document.svg",
+        "name": "document",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "documents.svg",
+        "name": "documents",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dot-single.svg",
+        "name": "dot-single",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dots-three-horizontal.svg",
+        "name": "dots-three-horizontal",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dots-three-vertical.svg",
+        "name": "dots-three-vertical",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dots-two-horizontal.svg",
+        "name": "dots-two-horizontal",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dots-two-vertical.svg",
+        "name": "dots-two-vertical",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "download.svg",
+        "name": "download",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dribbble-with-circle.svg",
+        "name": "dribbble-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "dribbble.svg",
+        "name": "dribbble",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "drink.svg",
+        "name": "drink",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "drive.svg",
+        "name": "drive",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "drop.svg",
+        "name": "drop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "dropbox.svg",
+        "name": "dropbox",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "edit.svg",
+        "name": "edit",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "email.svg",
+        "name": "email",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "emoji-flirt.svg",
+        "name": "emoji-flirt",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "emoji-happy.svg",
+        "name": "emoji-happy",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "emoji-neutral.svg",
+        "name": "emoji-neutral",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "emoji-sad.svg",
+        "name": "emoji-sad",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "erase.svg",
+        "name": "erase",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "eraser.svg",
+        "name": "eraser",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "evernote.svg",
+        "name": "evernote",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "export.svg",
+        "name": "export",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "eye-with-line.svg",
+        "name": "eye-with-line",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "eye.svg",
+        "name": "eye",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "facebook-with-circle.svg",
+        "name": "facebook-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "facebook.svg",
+        "name": "facebook",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "feather.svg",
+        "name": "feather",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "fingerprint.svg",
+        "name": "fingerprint",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flag.svg",
+        "name": "flag",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flash.svg",
+        "name": "flash",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flashlight.svg",
+        "name": "flashlight",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flat-brush.svg",
+        "name": "flat-brush",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flattr.svg",
+        "name": "flattr",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "flickr-with-circle.svg",
+        "name": "flickr-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "flickr.svg",
+        "name": "flickr",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "flow-branch.svg",
+        "name": "flow-branch",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flow-cascade.svg",
+        "name": "flow-cascade",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flow-line.svg",
+        "name": "flow-line",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flow-parallel.svg",
+        "name": "flow-parallel",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flow-tree.svg",
+        "name": "flow-tree",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "flower.svg",
+        "name": "flower",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "folder-images.svg",
+        "name": "folder-images",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "folder-music.svg",
+        "name": "folder-music",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "folder-video.svg",
+        "name": "folder-video",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "folder.svg",
+        "name": "folder",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "forward.svg",
+        "name": "forward",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "foursquare.svg",
+        "name": "foursquare",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "funnel.svg",
+        "name": "funnel",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "game-controller.svg",
+        "name": "game-controller",
+        "tags": [
+            "entypo",
+            "social",
+            "gaming"
+        ]
+    },
+    {
+        "path": "gauge.svg",
+        "name": "gauge",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "github-with-circle.svg",
+        "name": "github-with-circle",
+        "tags": [
+            "entypo",
+            "development"
+        ]
+    },
+    {
+        "path": "github.svg",
+        "name": "github",
+        "tags": [
+            "entypo",
+            "development"
+        ]
+    },
+    {
+        "path": "globe.svg",
+        "name": "globe",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "google-drive.svg",
+        "name": "google-drive",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "google-hangouts.svg",
+        "name": "google-hangouts",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "google-play.svg",
+        "name": "google-play",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "google+-with-circle.svg",
+        "name": "google+-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "google+.svg",
+        "name": "google+",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "graduation-cap.svg",
+        "name": "graduation-cap",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "grid.svg",
+        "name": "grid",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "grooveshark.svg",
+        "name": "grooveshark",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "hair-cross.svg",
+        "name": "hair-cross",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "hand.svg",
+        "name": "hand",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "heart-outlined.svg",
+        "name": "heart-outlined",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "heart.svg",
+        "name": "heart",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "help-with-circle.svg",
+        "name": "help-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "help.svg",
+        "name": "help",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "home.svg",
+        "name": "home",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "hour-glass.svg",
+        "name": "hour-glass",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "houzz.svg",
+        "name": "houzz",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "icloud.svg",
+        "name": "icloud",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "image-inverted.svg",
+        "name": "image-inverted",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "image.svg",
+        "name": "image",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "images.svg",
+        "name": "images",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "inbox.svg",
+        "name": "inbox",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "infinity.svg",
+        "name": "infinity",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "info-with-circle.svg",
+        "name": "info-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "info.svg",
+        "name": "info",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "instagram-with-circle.svg",
+        "name": "instagram-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "instagram.svg",
+        "name": "instagram",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "install.svg",
+        "name": "install",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "key.svg",
+        "name": "key",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "keyboard.svg",
+        "name": "keyboard",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "lab-flask.svg",
+        "name": "lab-flask",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "landline.svg",
+        "name": "landline",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "language.svg",
+        "name": "language",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "laptop.svg",
+        "name": "laptop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "lastfm-with-circle.svg",
+        "name": "lastfm-with-circle",
+        "tags": [
+            "entypo",
+            "radio",
+            "music"
+        ]
+    },
+    {
+        "path": "lastfm.svg",
+        "name": "lastfm",
+        "tags": [
+            "entypo",
+            "radio",
+            "music"
+        ]
+    },
+    {
+        "path": "layers.svg",
+        "name": "layers",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "leaf.svg",
+        "name": "leaf",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "level-down.svg",
+        "name": "level-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "level-up.svg",
+        "name": "level-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "lifebuoy.svg",
+        "name": "lifebuoy",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "light-bulb.svg",
+        "name": "light-bulb",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "light-down.svg",
+        "name": "light-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "light-up.svg",
+        "name": "light-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "line-graph.svg",
+        "name": "line-graph",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "link.svg",
+        "name": "link",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "linkedin-with-circle.svg",
+        "name": "linkedin-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "linkedin.svg",
+        "name": "linkedin",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "list.svg",
+        "name": "list",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "location-pin.svg",
+        "name": "location-pin",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "location.svg",
+        "name": "location",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "lock-open.svg",
+        "name": "lock-open",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "lock.svg",
+        "name": "lock",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "log-out.svg",
+        "name": "log-out",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "login.svg",
+        "name": "login",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "loop.svg",
+        "name": "loop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "magnet.svg",
+        "name": "magnet",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "magnifying-glass.svg",
+        "name": "magnifying-glass",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mail-with-circle.svg",
+        "name": "mail-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mail.svg",
+        "name": "mail",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "man.svg",
+        "name": "man",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "map.svg",
+        "name": "map",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mask.svg",
+        "name": "mask",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "medal.svg",
+        "name": "medal",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "medium-with-circle.svg",
+        "name": "medium-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "medium.svg",
+        "name": "medium",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "megaphone.svg",
+        "name": "megaphone",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "menu.svg",
+        "name": "menu",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "merge.svg",
+        "name": "merge",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "message.svg",
+        "name": "message",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mic.svg",
+        "name": "mic",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "minus.svg",
+        "name": "minus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mixi.svg",
+        "name": "mixi",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mobile.svg",
+        "name": "mobile",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "modern-mic.svg",
+        "name": "modern-mic",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "moon.svg",
+        "name": "moon",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mouse-pointer.svg",
+        "name": "mouse-pointer",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "mouse.svg",
+        "name": "mouse",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "music.svg",
+        "name": "music",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "network.svg",
+        "name": "network",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "new-message.svg",
+        "name": "new-message",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "new.svg",
+        "name": "new",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "news.svg",
+        "name": "news",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "newsletter.svg",
+        "name": "newsletter",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "note.svg",
+        "name": "note",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "notification.svg",
+        "name": "notification",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "notifications-off.svg",
+        "name": "notifications-off",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "old-mobile.svg",
+        "name": "old-mobile",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "old-phone.svg",
+        "name": "old-phone",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "onedrive.svg",
+        "name": "onedrive",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "open-book.svg",
+        "name": "open-book",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "palette.svg",
+        "name": "palette",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "paper-plane.svg",
+        "name": "paper-plane",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "paypal.svg",
+        "name": "paypal",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "pencil.svg",
+        "name": "pencil",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "phone.svg",
+        "name": "phone",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "picasa.svg",
+        "name": "picasa",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "pie-chart.svg",
+        "name": "pie-chart",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "pin.svg",
+        "name": "pin",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "pinterest-with-circle.svg",
+        "name": "pinterest-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "pinterest.svg",
+        "name": "pinterest",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "plus.svg",
+        "name": "plus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "popup.svg",
+        "name": "popup",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "power-plug.svg",
+        "name": "power-plug",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "price-ribbon.svg",
+        "name": "price-ribbon",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "price-tag.svg",
+        "name": "price-tag",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "print.svg",
+        "name": "print",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "progress-empty.svg",
+        "name": "progress-empty",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "progress-full.svg",
+        "name": "progress-full",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "progress-one.svg",
+        "name": "progress-one",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "progress-two.svg",
+        "name": "progress-two",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "publish.svg",
+        "name": "publish",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "qq-with-circle.svg",
+        "name": "qq-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "qq.svg",
+        "name": "qq",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "quote.svg",
+        "name": "quote",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "radio.svg",
+        "name": "radio",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "raft-with-circle.svg",
+        "name": "raft-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "raft.svg",
+        "name": "raft",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "rainbow.svg",
+        "name": "rainbow",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "rdio-with-circle.svg",
+        "name": "rdio-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "rdio.svg",
+        "name": "rdio",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "remove-user.svg",
+        "name": "remove-user",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "renren.svg",
+        "name": "renren",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "reply-all.svg",
+        "name": "reply-all",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "reply.svg",
+        "name": "reply",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "resize-100.svg",
+        "name": "resize-100%",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "resize-full-screen.svg",
+        "name": "resize-full-screen",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "retweet.svg",
+        "name": "retweet",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "rocket.svg",
+        "name": "rocket",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "round-brush.svg",
+        "name": "round-brush",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "rss.svg",
+        "name": "rss",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "ruler.svg",
+        "name": "ruler",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "save.svg",
+        "name": "save",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "scissors.svg",
+        "name": "scissors",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "scribd.svg",
+        "name": "scribd",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "select-arrows.svg",
+        "name": "select-arrows",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "share-alternative.svg",
+        "name": "share-alternative",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "share.svg",
+        "name": "share",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shareable.svg",
+        "name": "shareable",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shield.svg",
+        "name": "shield",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shop.svg",
+        "name": "shop",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shopping-bag.svg",
+        "name": "shopping-bag",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shopping-basket.svg",
+        "name": "shopping-basket",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "shopping-cart.svg",
+        "name": "shopping-cart",
+        "tags": [
+            "entypo",
+            "shopping"
+        ]
+    },
+    {
+        "path": "shuffle.svg",
+        "name": "shuffle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "signal.svg",
+        "name": "signal",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sina-weibo.svg",
+        "name": "sina-weibo",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "skype-with-circle.svg",
+        "name": "skype-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "skype.svg",
+        "name": "skype",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "slideshare.svg",
+        "name": "slideshare",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "smashing.svg",
+        "name": "smashing",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sound-mix.svg",
+        "name": "sound-mix",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sound-mute.svg",
+        "name": "sound-mute",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sound.svg",
+        "name": "sound",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "soundcloud.svg",
+        "name": "soundcloud",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sports-club.svg",
+        "name": "sports-club",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "spotify-with-circle.svg",
+        "name": "spotify-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "spotify.svg",
+        "name": "spotify",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "spreadsheet.svg",
+        "name": "spreadsheet",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "squared-cross.svg",
+        "name": "squared-cross",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "squared-minus.svg",
+        "name": "squared-minus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "squared-plus.svg",
+        "name": "squared-plus",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "star-outlined.svg",
+        "name": "star-outlined",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "star.svg",
+        "name": "star",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "stopwatch.svg",
+        "name": "stopwatch",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "stumbleupon-with-circle.svg",
+        "name": "stumbleupon-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "stumbleupon.svg",
+        "name": "stumbleupon",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "suitcase.svg",
+        "name": "suitcase",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "swap.svg",
+        "name": "swap",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "swarm.svg",
+        "name": "swarm",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "sweden.svg",
+        "name": "sweden",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "switch.svg",
+        "name": "switch",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tablet-mobile-combo.svg",
+        "name": "tablet-mobile-combo",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tablet.svg",
+        "name": "tablet",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tag.svg",
+        "name": "tag",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "text-document-inverted.svg",
+        "name": "text-document-inverted",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "text-document.svg",
+        "name": "text-document",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "text.svg",
+        "name": "text",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "thermometer.svg",
+        "name": "thermometer",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "thumbs-down.svg",
+        "name": "thumbs-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "thumbs-up.svg",
+        "name": "thumbs-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "thunder-cloud.svg",
+        "name": "thunder-cloud",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "ticket.svg",
+        "name": "ticket",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "time-slot.svg",
+        "name": "time-slot",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tools.svg",
+        "name": "tools",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "traffic-cone.svg",
+        "name": "traffic-cone",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "trash.svg",
+        "name": "trash",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tree.svg",
+        "name": "tree",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "triangle-down.svg",
+        "name": "triangle-down",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "triangle-left.svg",
+        "name": "triangle-left",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "triangle-right.svg",
+        "name": "triangle-right",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "triangle-up.svg",
+        "name": "triangle-up",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tripadvisor.svg",
+        "name": "tripadvisor",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "trophy.svg",
+        "name": "trophy",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "tumblr-with-circle.svg",
+        "name": "tumblr-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "tumblr.svg",
+        "name": "tumblr",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "tv.svg",
+        "name": "tv",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "twitter-with-circle.svg",
+        "name": "twitter-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "twitter.svg",
+        "name": "twitter",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "typing.svg",
+        "name": "typing",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "uninstall.svg",
+        "name": "uninstall",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "unread.svg",
+        "name": "unread",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "untag.svg",
+        "name": "untag",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "upload-to-cloud.svg",
+        "name": "upload-to-cloud",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "upload.svg",
+        "name": "upload",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "user.svg",
+        "name": "user",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "users.svg",
+        "name": "users",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "v-card.svg",
+        "name": "v-card",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "video-camera.svg",
+        "name": "video-camera",
+        "tags": [
+            "entypo",
+            "video"
+        ]
+    },
+    {
+        "path": "video.svg",
+        "name": "video",
+        "tags": [
+            "entypo",
+            "video"
+        ]
+    },
+    {
+        "path": "vimeo-with-circle.svg",
+        "name": "vimeo-with-circle",
+        "tags": [
+            "entypo",
+            "video"
+        ]
+    },
+    {
+        "path": "vimeo.svg",
+        "name": "vimeo",
+        "tags": [
+            "entypo",
+            "social",
+            "video"
+        ]
+    },
+    {
+        "path": "vine-with-circle.svg",
+        "name": "vine-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "vine.svg",
+        "name": "vine",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "vinyl.svg",
+        "name": "vinyl",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "vk-alternitive.svg",
+        "name": "vk-alternitive",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "vk-with-circle.svg",
+        "name": "vk-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "vk.svg",
+        "name": "vk",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "voicemail.svg",
+        "name": "voicemail",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "wallet.svg",
+        "name": "wallet",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "warning.svg",
+        "name": "warning",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "water.svg",
+        "name": "water",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "windows-store.svg",
+        "name": "windows-store",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "xing-with-circle.svg",
+        "name": "xing-with-circle",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "xing.svg",
+        "name": "xing",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "yelp.svg",
+        "name": "yelp",
+        "tags": [
+            "entypo",
+            "social"
+        ]
+    },
+    {
+        "path": "youko-with-circle.svg",
+        "name": "youko-with-circle",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "youko.svg",
+        "name": "youko",
+        "tags": [
+            "entypo"
+        ]
+    },
+    {
+        "path": "youtube-with-circle.svg",
+        "name": "youtube-with-circle",
+        "tags": [
+            "entypo",
+            "social",
+            "video"
+        ]
+    },
+    {
+        "path": "youtube.svg",
+        "name": "youtube",
+        "tags": [
+            "entypo",
+            "social",
+            "video"
+        ]
+    }
+]

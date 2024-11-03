@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <g fill="none" fill-rule="evenodd">
+<path fill="#EFEFEF" fill-rule="nonzero" d="M104,52 L40,52 C35.6,52 32,55.6 32,60 L32,84 C32,88.4 35.6,92 40,92 L104,92 C108.4,92 112,88.4 112,84 L112,60 C112,55.6 108.4,52 104,52 Z M104,84 L40,84 L40,60 L104,60 L104,84 Z M60,64 L44,64 L44,80 L60,80 L60,64 Z M80,64 L64,64 L64,80 L80,80 L80,64 Z"/>
+  </g>
+</svg>
