@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>com.fredemmott.sdmicmute PI</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="css/sdpi.css">
+  <style type="text/css">
+    .hidden { display: none !important; }
+  </style>
+</head>
+
+<body>
+  <div class="sdpi-wrapper hidden" id="mainWrapper">
+    <div class="sdpi-item">
+      <div class="sdpi-item-label">Device</div>
+      <select class="sdpi-item-value select" id="device" onchange="saveSettings()">
+        <optgroup label="Standard Device" id="dynamicDevices">
+        </optgroup>
+        <optgroup label="Specific Input Device" id="inputDevices">
+        </optgroup>
+        <optgroup label="Specific Output Device" id="outputDevices">
+        </optgroup>
+      </select>
+    </div>
+    <div class="sdpi-item">
+      <div class="sdpi-item-label">Device matching</div>
+      <select class="sdpi-item-value select" id="fuzzyMatching" onchange="saveSettings()">
+        <option value="off">Exact (by ID)</option>
+        <option value="on">Fuzzy (by name, ignoring some changes)</option>
+      </select>
+    </div>
+    <div class="sdpi-item hidden" id="toggleKindDiv">
+      <div class="sdpi-item-label">PTT/PTM</div>
+      <select class="sdpi-item-value select" id="toggleKind" onchange="saveSettings()"">
+        <option value="ToggleOnly">No, toggle-only</option>
+        <option value="TogglePressPttPtmHold">Quick-press to toggle, press-and-hold for PTT/PTM</option>
+        <option value="PttPtmOnly">Always act as PTT/PTM</option>
+      </select>Always act as PTT/PTM</option>
+    </div>
+    <div type="checkbox" class="sdpi-item">
+      <div class="sdpi-item-label">Feedback</div>
+      <input class="sdpi-item-value" id="feedbackSounds" type="checkbox" value="on" onchange="saveSettings()">
+      <label for="feedbackSounds"><span></span>Feedback Sounds</label>
+    </div>
+    <details>
+      <summary>Standard vs Specific Devices</summary>
+      <p>
+        If you select a 'standard' device, system sound settings can change what physical
+        device this plugin affects.
+      </p>
+      <p>
+        If you select a specific device, this plugin will always try to
+        change/use that device, even if it is no longer the default device in Windows.
+      </p>
+    </details>
+  </div>
+
+  <script src="common.js"></script>
+  <script>
+    const ACTION_IDS = {
+      toggle: "com.fredemmott.micmutetoggle.toggle",
+    };
+
+    /** Step 1: Subscribe to the 'connected' event
+     * and call your own initialization method.
+     * The connected - event is emitted, when StreamDeck
+     * has established a connection.
+     * The 'connected' event carries a JSON object containing
+     * necessary information about the connection and the
+     * inital data.
+     */
+    const SPECIAL_IDS = {
+      defaultInput: "com.fredemmott.sdmute.deviceIds.defaultInput",
+      defaultOutput: "com.fredemmott.sdmute.deviceIds.defaultOutput",
+      communicationsInput: "com.fredemmott.sdmute.deviceIds.communicationsInput",
+      communicationsOutput: "com.fredemmott.sdmute.deviceIds.communicationsOutput",
+    };
+    var uuid,
+      actionInfo,
+      ctx,
+      settings;
+
+    $SD.on('connected', (jsonObj) => connected(jsonObj));
+    $SD.on('sendToPropertyInspector', (jsonObj) => sendToPropertyInspector(jsonObj));
+
+    function connected(jsonObj) {
+      uuid = jsonObj.uuid;
+      actionInfo = jsonObj.actionInfo.action;
+      settings = jsonObj.actionInfo.payload.settings;
+      ctx = jsonObj.actionInfo.context;
+
+      if (!('feedbackSounds' in settings)) {
+        settings.feedbackSounds = true;
+      }
+      document.getElementById('feedbackSounds').checked = settings.feedbackSounds;
+      
+      if (!('fuzzyMatching' in settings)) {
+        settings.fuzzyMatching = false;
+      }
+      document.querySelector(`#fuzzyMatching option[value="${settings.fuzzyMatching ? "on" : "off"}"]`).setAttribute('selected', true);
+
+      if (actionInfo == ACTION_IDS.toggle) {
+        if (!('toggleKind' in settings)) {
+          if ('ptt' in settings) {
+            settings.toggleKind = settings.ptt ? 'TogglePressPttPtmHold' : 'ToggleOnly';
+          } else {
+            settings.toggleKind = 'ToggleOnly';
+          }
+        }
+        document.getElementById('toggleKindDiv').classList.remove('hidden');
+        document.querySelector(`#toggleKind option[value="${settings.toggleKind}"]`).setAttribute('selected', true);
+      }
+
+      $SD.api.sendToPlugin(uuid, actionInfo, { event: "getDeviceList" });
+    };
+
+    function createDeviceElement(deviceID, label, extra = null) {
+      const option = document.createElement("option");
+      option.setAttribute('value', deviceID);
+      if (settings.deviceID == deviceID) {
+        option.setAttribute('selected', true);
+      }
+      if (extra) {
+        option.textContent = `${label} - ${extra}`;
+      } else {
+        option.textContent = label;
+      }
+      return option;
+    }
+
+    function sendToPropertyInspector(jsonObj) {
+      const payload = jsonObj.payload;
+      const { event } = payload;
+      if (event != "getDeviceList") {
+        return;
+      }
+      const { outputDevices, inputDevices, defaultDevices } = payload;
+
+      const state_sort = {
+        "connected": 0,
+        "device_present_no_connection": 1,
+        "device_not_present": 2,
+        "device_disabled": 3,
+      };
+      const sorted_keys = devices => Object.keys(devices).sort((a_id, b_id) => {
+        const a = devices[a_id];
+        const b = devices[b_id];
+
+        if (state_sort[a.state] < state_sort[b.state]) {
+          return -1;
+        }
+        if (state_sort[a.state] > state_sort[b.state]) {
+          return 1;
+        }
+        if (a.displayName < b.displayName) {
+          return -1;
+        }
+        if (a.displayName > b.displayName) {
+          return 1;
+        }
+        return 0;
+      });
+
+      const defaultInput = inputDevices[defaultDevices[SPECIAL_IDS.defaultInput]];
+      const defaultOutput = outputDevices[defaultDevices[SPECIAL_IDS.defaultOutput]];
+      const communicationsInput = inputDevices[defaultDevices[SPECIAL_IDS.communicationsInput]];
+      const communicationsOutput = outputDevices[defaultDevices[SPECIAL_IDS.communicationsOutput]];
+
+      const dynamicGroup = document.getElementById('dynamicDevices');
+      dynamicGroup.appendChild(createDeviceElement(SPECIAL_IDS.defaultInput, "Default Input", defaultInput.displayName));
+      dynamicGroup.appendChild(createDeviceElement(SPECIAL_IDS.defaultOutput, "Default Output", defaultOutput.displayName));
+      if (communicationsInput) {
+        dynamicGroup.appendChild(createDeviceElement(SPECIAL_IDS.communicationsInput, "Communications Input", communicationsInput.displayName));
+        dynamicGroup.appendChild(createDeviceElement(SPECIAL_IDS.communicationsOutput, "Communications Output", communicationsOutput.displayName));
+      }
+      if (!settings.deviceID) {
+        if (communicationsInput) {
+          settings.deviceID = communicationsInput;
+        } else {
+          settings.deviceID = defaultInput;
+        }
+        saveSettings();
+      }
+
+      const show_device = device => {
+        return device.state == "connected" || device.state == "device_present_no_connection" || device.id == settings.deviceID;
+      };
+      const display_name = device => device.displayName + {
+        "connected": "",
+        "device_present_no_connection": " (unplugged)",
+        "device_not_present": " (not present)",
+        "device_disabled": " (disabled)"
+      }[device.state];
+
+      const inputGroup = document.getElementById('inputDevices');
+      sorted_keys(inputDevices).map((deviceID) => {
+        const device = inputDevices[deviceID];
+        if (!show_device(device)) {
+          return;
+        }
+        inputGroup.appendChild(createDeviceElement(deviceID, display_name(device)));
+      });
+      const outputGroup = document.getElementById('outputDevices');
+      sorted_keys(outputDevices).map((deviceID) => {
+        const device = outputDevices[deviceID];
+        if (!show_device(device)) {
+          return;
+        }
+        outputGroup.appendChild(createDeviceElement(deviceID, display_name(device)));
+      });
+
+      const deviceElement = document.querySelector(`#device option[value="${settings.deviceID}"]`);
+      if (settings.deviceContainer && !deviceElement) {
+        const container = document.getElementById(settings.deviceContainer);
+        container.appendChild(createDeviceElement(settings.deviceID, settings.deviceLabel));
+      }
+
+      document.getElementById('mainWrapper').classList.remove('hidden');
+    }
+
+    function saveSettings() {
+      settings.deviceID = document.getElementById('device').value;
+      const deviceElement = document.querySelector(`#device option[value="${settings.deviceID}"]`);
+      settings.deviceLabel = deviceElement.textContent;
+      settings.deviceContainer = deviceElement.parentElement.id;
+      settings.feedbackSounds = document.getElementById('feedbackSounds').checked;
+      settings.fuzzyMatching = document.getElementById('fuzzyMatching').value == 'on';
+      if (actionInfo == ACTION_IDS.toggle) {
+        settings.toggleKind = document.getElementById('toggleKind').value;
+      }
+      console.log('saving settings', settings);
+      $SD.api.setSettings(uuid, settings);
+    }
+  </script>
+
+</body>
+
+</html>

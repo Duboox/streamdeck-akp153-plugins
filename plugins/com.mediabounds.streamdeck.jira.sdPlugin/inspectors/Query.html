@@ -1,0 +1,33 @@
+<link rel="stylesheet" type="text/css" href="../css/sdpi.css" />
+<link rel="stylesheet" type="text/css" href="../css/custom.css" />
+<script src="components.js"></script>
+
+<div class="sdpi-item">
+  <div class="sdpi-item-label">JQL</div>
+  <textarea class="sdpi-item-value" id="jql"></textarea>
+</div>
+
+<pi-status id="status"></pi-status>
+
+<div type="group" class="sdpi-item">
+  <div class="sdpi-heading">Button</div>
+  <div class="sdpi-item" type="select">
+    <div class="sdpi-item-label">Action</div>
+    <select class="sdpi-item-value" id="key-action">
+      <option value="ViewFilter" selected>View JQL filter result</option>
+      <option value="ViewIssues">Open issues</option>
+      <option value="Refresh">Check for update</option>
+      <option value="OpenUrl">Open URL</option>
+    </select>
+    <input class="sdpi-item-value" type="number" placeholder="5" min="0" step="1" max="25" id="key-action-limit">
+  </div>
+  <div class="sdpi-item">
+    <div class="sdpi-item-label">URL</div>
+    <input class="sdpi-item-value" type="url" placeholder="https://www.example.com" id="key-action-url">
+  </div>
+</div>
+
+<pi-authentication id="auth"></pi-authentication>
+<pi-icon id="icon"></pi-icon>
+
+<script src="Query.js"></script>

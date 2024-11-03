@@ -1,0 +1,74 @@
+{
+  "Author": "Daniel Pfeiffer",
+  "Actions": [
+    {
+      "Icon": "images/actions/Query",
+      "UUID": "com.mediabounds.streamdeck.jira.query",
+      "Name": "JQL Result",
+      "States": [
+        {
+          "Image": "images/actions/Query/Jira",
+          "FontSize": "16"
+        }
+      ],
+      "PropertyInspectorPath": "inspectors/Query.html",
+      "Tooltip": "Displays a badge with the number of issues matching a JQL query.",
+      "SupportedInMultiActions": false
+    },
+    {
+      "Icon": "images/actions/ConfluenceSearch",
+      "UUID": "com.mediabounds.streamdeck.jira.confluencesearch",
+      "Name": "Confluence Search",
+      "States": [
+        {
+          "Image": "images/actions/ConfluenceSearch/Confluence",
+          "FontSize": "16"
+        }
+      ],
+      "PropertyInspectorPath": "inspectors/ConfluenceSearch.html",
+      "Tooltip": "Displays a badge with the number of search results for a given CQL query.",
+      "SupportedInMultiActions": false
+    },
+    {
+      "Icon": "images/actions/ConfluenceTasks",
+      "UUID": "com.mediabounds.streamdeck.jira.confluencetasks",
+      "Name": "Confluence Tasks",
+      "States": [
+        {
+          "Image": "images/actions/ConfluenceTasks/ConfluenceTasks",
+          "FontSize": "16"
+        }
+      ],
+      "PropertyInspectorPath": "inspectors/ConfluenceTasks.html",
+      "Tooltip": "Displays a badge with the number of incomplete inline tasks assigned to you in Confluence.",
+      "SupportedInMultiActions": false
+    }
+  ],
+  "CodePath": "plugin.html",
+  "Icon": "images/plugin",
+  "Name": "Jira",
+  "Description": "A Stream Deck plugin for finding issues in Jira or content in Confluence.",
+  "PropertyInspectorPath": "inspector.html",
+  "Version": "1.4.0",
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "5.0"
+  },
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    },
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    }
+  ],
+  "CategoryIcon": "images/category",
+  "Category": "Jira",
+  "URL": "https://github.com/mediabounds/streamdeck-jira",
+  "ApplicationsToMonitor": {
+    "windows": [],
+    "mac": []
+  }
+}

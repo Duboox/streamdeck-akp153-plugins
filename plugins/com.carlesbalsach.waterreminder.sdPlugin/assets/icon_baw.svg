@@ -1,0 +1,13 @@
+<svg width="144px" height="144px" viewBox="0 0 100 100" id="Line" xmlns="http://www.w3.org/2000/svg">
+  
+    <polygon points="10,20 90,20 80,90 20,90" style="fill:#BBBBBB;stroke-width:0" />
+
+    <line id="glass_left" x1="10" y1="10" x2="20" y2="90" style="fill:none;stroke:black;stroke-linecap:round;stroke-linejoin:round;stroke-width:12px"></line>
+    <line id="glass_right" x1="90" y1="10" x2="80" y2="90" style="fill:none;stroke:black;stroke-linecap:round;stroke-linejoin:round;stroke-width:12px"></line>
+    <line id="glass_right" x1="20" y1="90" x2="80" y2="90" style="fill:none;stroke:black;stroke-linecap:round;stroke-linejoin:round;stroke-width:12px"></line>
+      
+    <line id="glass_left" x1="10" y1="10" x2="20" y2="90" style="fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px"></line>
+    <line id="glass_right" x1="90" y1="10" x2="80" y2="90" style="fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px"></line>
+    <line id="glass_right" x1="20" y1="90" x2="80" y2="90" style="fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px"></line>
+
+</svg>

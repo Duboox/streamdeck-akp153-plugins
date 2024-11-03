@@ -1,0 +1,88 @@
+[hidden] {
+  display: none;
+}
+
+select {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+input[type="color"] {
+  margin-left: 3px;
+  padding: 0 !important;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+.sdpi-item-value + .sdpi-item-value {
+  min-width: auto;
+}
+
+.sdpi-item-preview {
+  background: #333;
+  margin-left: 4px;
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.sdpi-item-preview.preview-visible:hover:after {
+  content: '\2715';
+  align-items: center;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  display: flex;
+  font-weight: bold;
+  height: 100%;
+  justify-content: center;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+.polling-status {
+  cursor: pointer;
+  padding-right: 14px !important;
+  text-align: right;
+  width: 100%;
+}
+
+.polling-status .success {
+  color: lightgreen;
+}
+
+.polling-status .warning {
+  color: yellow;
+}
+
+.debug-modal {
+  color: #EEE;
+  font-family: sans-serif;
+}
+
+.debug-modal > * {
+  margin: 10px 0;
+}
+
+.debug-modal .debug-headers tr:nth-child(odd) {
+  background-color: rgba(0,0,0,0.15);
+}
+
+.debug-modal .debug-headers td {
+  font-family: monospace;
+}
+
+.debug-modal .debug-headers th {
+  font-size: 0.8em;
+  text-align: left;
+  vertical-align: top;
+}
+
+.debug-modal pre {
+  max-width: 100%;
+  overflow: auto;
+}

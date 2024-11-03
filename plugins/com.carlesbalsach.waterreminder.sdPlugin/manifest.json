@@ -1,0 +1,41 @@
+{
+	"SDKVersion": 2,
+	"Author": "Carles Balsach",
+	"CodePath": "app.html",
+	"Description": "A simple reminder to help you keep up with the daily water intake.",
+	"Name": "Water Reminder",
+	"Icon": "assets/app_icon",
+	"URL": "https://github.com/CarlesBalsach/water-reminder-elgato-plugin/blob/main/README.md",
+	"Version": "1.0.1",
+	"Software": {
+		"MinimumVersion": "5.0"
+	},
+	"OS": [
+		{
+			"Platform": "mac",
+			"MinimumVersion": "10.11"
+		},
+		{
+			"Platform": "windows",
+			"MinimumVersion": "10"
+		}
+	],
+	"Category": "Water Reminder",
+	"CategoryIcon": "assets/icon_baw",
+	"Actions": [
+		{
+			"Icon": "assets/icon_baw",
+			"Name": "Water Reminder",
+			"Controllers": ["Keypad"],
+			"States": [
+				{
+					"Image": "assets/icon",
+					"State": 0
+				  }
+			],
+			"Tooltip": "This is an example tooltip",
+			"UUID": "com.carlesbalsach.waterreminder.action", 
+			"PropertyInspectorPath": "actions/reminder/property-inspector/inspector.html"
+		}
+	]
+}

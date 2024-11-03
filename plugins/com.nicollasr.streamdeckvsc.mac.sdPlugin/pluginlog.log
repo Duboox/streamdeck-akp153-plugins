@@ -1,0 +1,7 @@
+2024-11-03 18:30:26.6011|DEBUG|BarRaider.SdTools.Logger|Logger Initialized
+2024-11-03 18:30:27.1693|INFO|BarRaider.SdTools.Logger|Starting server ws://127.0.0.1:48969
+2024-11-03 18:30:27.7893|INFO|BarRaider.SdTools.Logger|Plugin Loading - 6 Actions Found
+2024-11-03 18:30:31.0471|INFO|BarRaider.SdTools.Logger|Plugin version: 5.1.3
+2024-11-03 18:30:31.0643|INFO|BarRaider.SdTools.Logger|Connecting to Stream Deck
+2024-11-03 18:30:31.3407|INFO|BarRaider.SdTools.Logger|Connected to Stream Deck
+2024-11-03 18:30:31.3448|INFO|BarRaider.SdTools.Logger|GlobalSettingsManager initialized
