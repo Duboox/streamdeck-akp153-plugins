@@ -10,6 +10,7 @@
                     "FontSize": "17"
                 }
             ],
+            "Controllers": ["Keypad", "Information", "SecondaryScreen"],
             "SupportedInMultiActions": false,
             "Tooltip": "This action displays the CPU usage",
             "UUID": "com.elgato.cpu.cpu"
