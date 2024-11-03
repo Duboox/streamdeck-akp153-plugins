@@ -1,0 +1,205 @@
+{
+  "Description": "Contrôlez Discord.",
+  "Name": "Discord",
+  "com.elgato.discord.mute": {
+    "Name": "Couper le micro",
+    "Tooltip": "Couper/Réactiver le micro",
+    "States": [
+      {
+        "Name": "Couper le micro"
+      },
+      {
+        "Name": "Réactiver le micro"
+      }
+    ]
+  },
+  "com.elgato.discord.deafen": {
+    "Name": "Couper le son",
+    "Tooltip": "Couper/Réactiver le son",
+    "States": [
+      {
+        "Name": "Couper le son"
+      },
+      {
+        "Name": "Réactiver le son"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.voice": {
+    "Name": "Canal voix",
+    "Tooltip": "Rejoindre ou quitter un canal voix",
+    "States": [
+      {
+        "Name": "Rejoindre"
+      },
+      {
+        "Name": "Quitter"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.text": {
+    "Name": "Canal texte",
+    "Tooltip": "Accéder à un canal texte"
+  },
+  "com.elgato.discord.pushto.talk": {
+    "Name": "Appuyer pour parler",
+    "Tooltip": "Appuyer et maintenir pour parler"
+  },
+  "com.elgato.discord.pushto.mute": {
+    "Name": "Appuyer pour couper le micro",
+    "Tooltip": "Appuyer et maintenir pour couper le micro"
+  },
+  "com.elgato.discord.setaudiodevice": {
+    "Name": "Définir le périphérique audio",
+    "Tooltip": "Sélectionner l'entrée audio et le périphérique de sortie"
+  },
+  "com.elgato.discord.serverstats": {
+    "Name": "Statistiques du serveur",
+    "Tooltip": "Afficher les statistiques sur les utilisateurs/messages d'un serveur"
+  },
+  "com.elgato.discord.pushtotalktoggle": {
+    "Name": "Changer de mode d'entrée vocale",
+    "Tooltip": "Basculer entre les modes Appuyer pour parler et Activation vocale",
+    "States": [
+      {
+        "Name": "Activation vocale"
+      },
+      {
+        "Name": "Appuyer pour parler"
+      }
+    ]
+  },
+  "com.elgato.discord.soundboard": {
+    "Name": "Soundboard",
+    "Tooltip": "Joue un son sur le Soundboard Discord"
+  },
+  "com.elgato.discord.notifications": {
+    "Name": "Notifications",
+    "Tooltip": "Afficher les alertes des notifications récentes"
+  },
+  "com.elgato.discord.uservolumecontrolbutton": {
+    "Name": "Commande de volume des utilisateurs",
+    "Tooltip": "Contrôler le volume des utilisateurs lors des appels"
+  },
+  "com.elgato.discord.uservolumecontroldial": {
+    "Name": "Commande de volume des utilisateurs",
+    "Tooltip": "Contrôler le volume des utilisateurs lors des appels",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "Régler le volume",
+        "Push": "Utilisateur suivant",
+        "Touch": "Couper le son"
+      }
+    }
+  },
+  "com.elgato.discord.volumecontrolbutton": {
+    "Name": "Commande de volume",
+    "Tooltip": "Contrôler le volume des périphériques audio"
+  },
+  "com.elgato.discord.volumecontrol": {
+    "Name": "Commande de volume",
+    "Tooltip": "Contrôler le volume des périphériques audio",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "Régler le volume",
+        "Push": "Couper le son",
+        "Touch": "Couper le son"
+      }
+    }
+  },
+  "com.elgato.discord.videotoggle": {
+    "Name": "Activation/Désactivation de la vidéo",
+    "Tooltip": "Active ou désactive le flux de votre caméra lors des appels vocaux",
+    "States": [
+      {
+        "Name": "Activer la vidéo"
+      },
+      {
+        "Name": "Désactiver la vidéo"
+      }
+    ]
+  },
+  "com.elgato.discord.streamtoggle": {
+    "Name": "Activation/Désactivation du flux",
+    "Tooltip": "Active ou désactive le partage d'écran lors des appels vocaux",
+    "States": [
+      {
+        "Name": "Activer le flux"
+      },
+      {
+        "Name": "Désactiver le flux"
+      }
+    ]
+  },
+  "Localization": {
+    "PI": {
+      "AppWarning": "Veuillez lancer Discord",
+      "AuthWarning": "Autorisation Discord requise",
+      "AccessLabel": "Autorisation",
+      "AccessButton": "Demander l'accès",
+      "Server": "Serveur",
+      "NoServer": "Pas de serveur",
+      "VoiceChannel": "Canal voix",
+      "TextChannel": "Canal texte",
+      "NoChannel": "Aucune chaîne",
+      "Action": "Action",
+      "PushToTalk": "Appuyer pour parler",
+      "PushToMute": "Appuyer pour couper le micro",
+      "UserVolumeMode": "Mode",
+      "DeviceVolumeMode": "Mode",
+      "UserMuteType": "Type de Mute",
+      "MuteUser": "Couper le son",
+      "UnmuteUser": "Réactiver le micro",
+      "ToggleMuteUser": "Couper/Réactiver le micro",
+      "MuteDevice": "Couper le son",
+      "AdjustUserVol": "Ajuster",
+      "AdjustDeviceVol": "Ajuster",
+      "SetUserVol": "Définir",
+      "SetDeviceVol": "Définir",
+      "UserAdjustMode": "Mode d'ajustement",
+      "UserAdjustAny": "Tous les utilisateurs",
+      "UserAdjustSpecific": "Utilisateur spécifique",
+      "VolStepSize": "Taille des pas",
+      "VolSetValue": "Volume souhaité",
+      "DontDisplay": "Ne pas afficher",
+      "DoNothing": "Ne rien faire",
+      "User": "Utilisateur",
+      "Users": "Utilisateurs",
+      "UsersNotFound": "Aucun utilisateur trouvé",
+      "IconStyle": "Style d'icône",
+      "IconStatic": "Statique",
+      "IconDynamic": "Dynamique",
+      "IconDynamicH": "Dynamique (horizontale)",
+      "IconDynamicV": "Dynamique (verticale)",
+      "IODeviceMode": "Mode",
+      "IODeviceModeInput": "Définir l'entrée",
+      "IODeviceModeOutput": "Définir la sortie",
+      "IODeviceModeBoth": "Définir les deux",
+      "IODevice": "Périphérique",
+      "IODeviceInput": "Entrée",
+      "IODeviceOutput": "Sortie",
+      "IODeviceDefault": "Par défaut",
+      "IODeviceInputNotFound": "Aucune entrée trouvée",
+      "IODeviceOutputNotFound": "Aucune sortie trouvée",
+      "SrvStatMsg": "Messages",
+      "SrvStatMsgDisplayNew": "Afficher le nombre de nouveaux messages",
+      "SrvStatUsrOnline": "Afficher les utilisateurs en ligne",
+      "SrvStatUsrActive": "Afficher les utilisateurs récemment actifs",
+      "OnPress": "Lors d'un appui",
+      "OnLongPress": "Lors d'un appui long",
+      "OnPressRecentMsg": "Atteindre le message le plus récent",
+      "OnPressClearMsg": "Effacer le nombre de messages",
+      "OnPressNotification": "Ouvrir et effacer",
+      "OnPressClearNotification": "Effacer",
+      "OnPressCycleNotificationRecent": "En boucle, les plus récentes d'abord",
+      "OnPressCycleNotificationOld": "En boucle, les plus anciennes d'abord",
+      "SrvWidgetWarn": "Pour que vous puissiez suivre les utilisateurs en ligne, le widget de serveur doit être activé",
+      "SoundLabel": "Son",
+      "SoundboardSearch": "Résultats de recherche",
+      "SoundboardSearchEmpty": "Aucun son trouvé",
+      "SoundboardDefaults": "Sons Discord",
+      "Search": "Rechercher"
+    },
+    "Volume": "Volume"
+  }
+}

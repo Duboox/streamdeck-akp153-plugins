@@ -1,0 +1,66 @@
+<!--Twemoji by Twitter is licensed under the MIT license (code) and CC-BY 4.0 (graphics)
+    The graphics have been repackaged as data URIs in a JSON file but are otherwise unchanged.-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>com.elgato.discord.pi</title>
+	<meta charset="UTF-8" />
+	<!-- Import style sheets -->
+    <link rel="stylesheet" href="css/sdpi.css">
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<!-- Import scripts -->
+	<script type="text/javascript" src="lib/twemoji.14.0.2.min.js" ></script>
+	<script type="text/javascript" src="lib/fuzzysort.min.js" ></script>
+	<script type="text/javascript" src="main.js" ></script>
+	<script type="text/javascript" src="pi.js" ></script>
+	<script type="text/javascript" src="mutePI.js" ></script>
+	<script type="text/javascript" src="deafenPI.js" ></script>
+	<script type="text/javascript" src="voiceChannelPI.js" ></script>
+	<script type="text/javascript" src="textChannelPI.js" ></script>
+	<script type="text/javascript" src="pushToTalkPI.js" ></script>
+	<script type="text/javascript" src="pushToMutePI.js" ></script>
+	<script type="text/javascript" src="volumePI.js" ></script>
+	<script type="text/javascript" src="volumeButtonPI.js" ></script>
+	<script type="text/javascript" src="userVolumeButtonPI.js" ></script>
+	<script type="text/javascript" src="userVolumeDialPI.js" ></script>
+	<script type="text/javascript" src="pttTogglePI.js" ></script>
+	<script type="text/javascript" src="notificationsPI.js" ></script>
+	<script type="text/javascript" src="setAudioDevicePI.js" ></script>
+	<script type="text/javascript" src="serverStatsPI.js" ></script>
+	<script type="text/javascript" src="soundboardPI.js" ></script>
+	<script type="text/javascript" src="defaultPI.js" ></script>
+</head>
+
+<body>
+	<!-- Property Inspector -->
+	<div class="sdpi-wrapper" id="pi">
+		<!-- Placeholder for more UI elements -->
+		<div id="placeholder"></div>
+
+		<!-- App warning message -->
+		<div id="app-warning-message" style="display: none">
+			<div class='sdpi-item'>
+				<details class='message'>
+					<summary id='app-warning'></summary>
+				</details>
+			</div>
+		</div>
+
+		<!-- Auth warning message & button -->
+		<div id="auth-warning-message" style="display: none">
+			<div class='sdpi-item'>
+				<details class='message'>
+					<summary id='auth-warning'></summary>
+				</details>
+			</div>
+			<div class="sdpi-item">
+				<div class='sdpi-item-label' id='access-label'></div>
+				<button class="sdpi-item-value" id='access-button'></button>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,205 @@
+{
+  "Description": "Steuere Discord.",
+  "Name": "Discord",
+  "com.elgato.discord.mute": {
+    "Name": "Stummschalten",
+    "Tooltip": "Mikrofon-Stummschaltung ein/aus",
+    "States": [
+      {
+        "Name": "Stummschalten"
+      },
+      {
+        "Name": "Stumm aus"
+      }
+    ]
+  },
+  "com.elgato.discord.deafen": {
+    "Name": "Taubschalten",
+    "Tooltip": "Taubschaltung ein/aus",
+    "States": [
+      {
+        "Name": "Taubschalten"
+      },
+      {
+        "Name": "Taub aus"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.voice": {
+    "Name": "Sprachkanal",
+    "Tooltip": "Einen Sprachkanal betreten/verlassen",
+    "States": [
+      {
+        "Name": "Betreten"
+      },
+      {
+        "Name": "Verlassen"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.text": {
+    "Name": "Textkanal",
+    "Tooltip": "Zu einem Textkanal gehen"
+  },
+  "com.elgato.discord.pushto.talk": {
+    "Name": "Push-to-Talk",
+    "Tooltip": "Gedrückt halten zum Sprechen"
+  },
+  "com.elgato.discord.pushto.mute": {
+    "Name": "Push-to-Mute",
+    "Tooltip": "Gedrückt halten zum Stummschalten"
+  },
+  "com.elgato.discord.setaudiodevice": {
+    "Name": "Audiogerät festlegen",
+    "Tooltip": "Wähle deine Geräte für Audioeingang und -ausgang"
+  },
+  "com.elgato.discord.serverstats": {
+    "Name": "Server-Eigenschaften",
+    "Tooltip": "Zeige Benutzer-/Nachrichteneigenschaften eines Servers an"
+  },
+  "com.elgato.discord.pushtotalktoggle": {
+    "Name": "Spracheingabemodus umschalten",
+    "Tooltip": "Zwischen Push-to-Talk und Sprachaktivierung wechseln",
+    "States": [
+      {
+        "Name": "Sprachaktivierung"
+      },
+      {
+        "Name": "Push-to-Talk"
+      }
+    ]
+  },
+  "com.elgato.discord.soundboard": {
+    "Name": "Soundboard",
+    "Tooltip": "Spielt einen Sound auf dem Discord-Soundboard ab"
+  },
+  "com.elgato.discord.notifications": {
+    "Name": "Benachrichtigungen",
+    "Tooltip": "Zeige Alarme zu neuen Benachrichtigungen an"
+  },
+  "com.elgato.discord.uservolumecontrolbutton": {
+    "Name": "Benutzer-Lautstärkesteuerung",
+    "Tooltip": "Steuere die Lautstärke von Benutzern in Sprachchats"
+  },
+  "com.elgato.discord.uservolumecontroldial": {
+    "Name": "Benutzer-Lautstärkesteuerung",
+    "Tooltip": "Steuere die Lautstärke von Benutzern in Sprachchats",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "Lautstärke anpassen",
+        "Push": "Nächster Benutzer",
+        "Touch": "Stummschalten"
+      }
+    }
+  },
+  "com.elgato.discord.volumecontrolbutton": {
+    "Name": "Lautstärkesteuerung",
+    "Tooltip": "Steuere die Lautstärke von Audiogeräten"
+  },
+  "com.elgato.discord.volumecontrol": {
+    "Name": "Lautstärkesteuerung",
+    "Tooltip": "Steuere die Lautstärke von Audiogeräten",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "Lautstärke anpassen",
+        "Push": "Stumm-/Taubschalten",
+        "Touch": "Stumm-/Taubschalten"
+      }
+    }
+  },
+  "com.elgato.discord.videotoggle": {
+    "Name": "Video ein/aus",
+    "Tooltip": "Schaltet dein Kamerabild bei Sprachanrufen ein und aus",
+    "States": [
+      {
+        "Name": "Video aktivieren"
+      },
+      {
+        "Name": "Video deaktivieren"
+      }
+    ]
+  },
+  "com.elgato.discord.streamtoggle": {
+    "Name": "Stream ein/aus",
+    "Tooltip": "Schaltet deine Bildschirmfreigabe bei Sprachanrufen ein und aus",
+    "States": [
+      {
+        "Name": "Stream aktivieren"
+      },
+      {
+        "Name": "Stream deaktivieren"
+      }
+    ]
+  },
+  "Localization": {
+    "PI": {
+      "AppWarning": "Bitte starte Discord",
+      "AuthWarning": "Discord-Autorisierung erforderlich",
+      "AccessLabel": "Autorisierung",
+      "AccessButton": "Zugriff anfordern",
+      "Server": "Server",
+      "NoServer": "Kein Server",
+      "VoiceChannel": "Sprachkanal",
+      "TextChannel": "Textkanal",
+      "NoChannel": "Kein Kanal",
+      "Action": "Aktion",
+      "PushToTalk": "Push-to-Talk",
+      "PushToMute": "Push-to-Mute",
+      "UserVolumeMode": "Modus",
+      "DeviceVolumeMode": "Modus",
+      "UserMuteType": "Stummschaltungstyp",
+      "MuteUser": "Stummschalten",
+      "UnmuteUser": "Stumm aus",
+      "ToggleMuteUser": "Stumm ein/aus",
+      "MuteDevice": "Stummschalten",
+      "AdjustUserVol": "Anpassen",
+      "AdjustDeviceVol": "Anpassen",
+      "SetUserVol": "Festlegen",
+      "SetDeviceVol": "Festlegen",
+      "UserAdjustMode": "Anpassungsmodus",
+      "UserAdjustAny": "Jeder Benutzer",
+      "UserAdjustSpecific": "Bestimmter Benutzer",
+      "VolStepSize": "Stufengröße",
+      "VolSetValue": "Gewünschte Lautstärke",
+      "DontDisplay": "Nicht anzeigen",
+      "DoNothing": "Nichts tun",
+      "User": "Benutzer",
+      "Users": "Benutzer",
+      "UsersNotFound": "Keine Benutzer gefunden",
+      "IconStyle": "Icon-Stil",
+      "IconStatic": "Statisch",
+      "IconDynamic": "Dynamisch",
+      "IconDynamicH": "Dynamisch (horizontal)",
+      "IconDynamicV": "Dynamisch (vertikal)",
+      "IODeviceMode": "Modus",
+      "IODeviceModeInput": "Eingang festlegen",
+      "IODeviceModeOutput": "Ausgang festlegen",
+      "IODeviceModeBoth": "Beides festlegen",
+      "IODevice": "Gerät",
+      "IODeviceInput": "Eingang",
+      "IODeviceOutput": "Ausgang",
+      "IODeviceDefault": "Standard",
+      "IODeviceInputNotFound": "Keine Eingänge gefunden",
+      "IODeviceOutputNotFound": "Keine Ausgänge gefunden",
+      "SrvStatMsg": "Nachrichten",
+      "SrvStatMsgDisplayNew": "Anzahl neuer Nachrichten anzeigen",
+      "SrvStatUsrOnline": "Benutzer anzeigen, die online sind",
+      "SrvStatUsrActive": "Kürzlich aktive Benutzer anzeigen",
+      "OnPress": "Drücken",
+      "OnLongPress": "Gedrückt halten",
+      "OnPressRecentMsg": "Zur zuletzt erhaltenen Nachricht",
+      "OnPressClearMsg": "Nachrichtenanzahl zurücksetzen",
+      "OnPressNotification": "Öffnen und löschen",
+      "OnPressClearNotification": "Löschen",
+      "OnPressCycleNotificationRecent": "Durchlauf, neueste zuerst",
+      "OnPressCycleNotificationOld": "Durchlauf, älteste zuerst",
+      "SrvWidgetWarn": "Serverwidget muss aktiviert sein, um Online-Status von Benutzern nachzuvollziehen",
+      "SoundLabel": "Sound",
+      "SoundboardSearch": "Suchergebnisse",
+      "SoundboardSearchEmpty": "Keine Sounds gefunden",
+      "SoundboardDefaults": "Discord-Sounds",
+      "Search": "Suchen"
+    },
+    "Volume": "Lautstärke"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Description": "Discordをコントロール",
+  "Name": "Discord",
+  "com.elgato.discord.mute": {
+    "Name": "消音",
+    "Tooltip": "マイクの消音を切り替え",
+    "States": [
+      {
+        "Name": "ミュート"
+      },
+      {
+        "Name": "ミュート解除"
+      }
+    ]
+  },
+  "com.elgato.discord.deafen": {
+    "Name": "スピーカーミュート",
+    "Tooltip": "スピーカーミュートを切り替え",
+    "States": [
+      {
+        "Name": "スピーカーミュート"
+      },
+      {
+        "Name": "スピーカーミュートを解除"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.voice": {
+    "Name": "ボイスチャンネル",
+    "Tooltip": "ボイスチャンネルを開始または終了",
+    "States": [
+      {
+        "Name": "入室"
+      },
+      {
+        "Name": "退室"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.text": {
+    "Name": "テキストチャンネル",
+    "Tooltip": "テキストチャンネルに移動"
+  },
+  "com.elgato.discord.pushto.talk": {
+    "Name": "押して話す",
+    "Tooltip": "押したままにして話す"
+  },
+  "com.elgato.discord.pushto.mute": {
+    "Name": "押してミュート",
+    "Tooltip": "押したままにしてミュート"
+  },
+  "com.elgato.discord.setaudiodevice": {
+    "Name": "オーディオデバイスを設定",
+    "Tooltip": "オーディオ入力と出力デバイスを選択"
+  },
+  "com.elgato.discord.serverstats": {
+    "Name": "サーバー統計情報",
+    "Tooltip": "サーバのユーザ/メッセージ統計情報を表示"
+  },
+  "com.elgato.discord.pushtotalktoggle": {
+    "Name": "音声入力モードの切り替え",
+    "Tooltip": "プッシュ-トゥ-トークとボイスアクティビティモードを切り替え",
+    "States": [
+      {
+        "Name": "音声検出"
+      },
+      {
+        "Name": "プッシュ-トゥ-トーク"
+      }
+    ]
+  },
+  "com.elgato.discord.soundboard": {
+    "Name": "サウンドボード",
+    "Tooltip": "Discordのサウンドボードのサウンドを再生"
+  },
+  "com.elgato.discord.notifications": {
+    "Name": "通知",
+    "Tooltip": "最近の通知のアラートを表示"
+  },
+  "com.elgato.discord.uservolumecontrolbutton": {
+    "Name": "ユーザー音量のコントロール",
+    "Tooltip": "通話中のユーザーの音量をコントロールします"
+  },
+  "com.elgato.discord.uservolumecontroldial": {
+    "Name": "ユーザー音量のコントロール",
+    "Tooltip": "通話中のユーザーの音量をコントロールします",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "音量を調整",
+        "Push": "次のユーザー",
+        "Touch": "ミュート"
+      }
+    }
+  },
+  "com.elgato.discord.volumecontrolbutton": {
+    "Name": "音量コントロール",
+    "Tooltip": "オーディオデバイスの音量をコントロールします"
+  },
+  "com.elgato.discord.volumecontrol": {
+    "Name": "音量コントロール",
+    "Tooltip": "オーディオデバイスの音量をコントロールします",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "音量を調整",
+        "Push": "ミュート/スピーカーミュート",
+        "Touch": "ミュート/スピーカーミュート"
+      }
+    }
+  },
+  "com.elgato.discord.videotoggle": {
+    "Name": "ビデオのオン/オフの切り替え",
+    "Tooltip": "音声通話でカメラフィードのオン/オフを切り替えます",
+    "States": [
+      {
+        "Name": "ビデオをオンにする"
+      },
+      {
+        "Name": "ビデオをオフにする"
+      }
+    ]
+  },
+  "com.elgato.discord.streamtoggle": {
+    "Name": "ストリームのオン/オフの切り替え",
+    "Tooltip": "音声通話で画面共有のオン/オフを切り替えます",
+    "States": [
+      {
+        "Name": "ストリームをオンにする"
+      },
+      {
+        "Name": "ストリームをオフにする"
+      }
+    ]
+  },
+  "Localization": {
+    "PI": {
+      "AppWarning": "Discordを起動してください",
+      "AuthWarning": "Discordの認証が必要です",
+      "AccessLabel": "認証",
+      "AccessButton": "アクセスを要求",
+      "Server": "サーバー",
+      "NoServer": "サーバーがありません",
+      "VoiceChannel": "ボイスチャンネル",
+      "TextChannel": "テキストチャンネル",
+      "NoChannel": "チャンネルがありません",
+      "Action": "アクション",
+      "PushToTalk": "押して話す",
+      "PushToMute": "押してミュート",
+      "UserVolumeMode": "モード",
+      "DeviceVolumeMode": "モード",
+      "UserMuteType": "ミュートのタイプ",
+      "MuteUser": "ミュート",
+      "UnmuteUser": "ミュート解除",
+      "ToggleMuteUser": "ミュートを切り替え",
+      "MuteDevice": "ミュート",
+      "AdjustUserVol": "調整",
+      "AdjustDeviceVol": "調整",
+      "SetUserVol": "設定",
+      "SetDeviceVol": "設定",
+      "UserAdjustMode": "調整モード",
+      "UserAdjustAny": "すべてのユーザー",
+      "UserAdjustSpecific": "特定のユーザー",
+      "VolStepSize": "ステップサイズ",
+      "VolSetValue": "目標音量",
+      "DontDisplay": "表示しない",
+      "DoNothing": "何もしない",
+      "User": "ユーザー",
+      "Users": "ユーザー",
+      "UsersNotFound": "ユーザーが見つかりません",
+      "IconStyle": "アイコンのスタイル",
+      "IconStatic": "静的",
+      "IconDynamic": "動的",
+      "IconDynamicH": "動的 (横向き)",
+      "IconDynamicV": "動的 (縦向き)",
+      "IODeviceMode": "モード",
+      "IODeviceModeInput": "入力を設定",
+      "IODeviceModeOutput": "出力を設定",
+      "IODeviceModeBoth": "両方を設定",
+      "IODevice": "デバイス",
+      "IODeviceInput": "入力",
+      "IODeviceOutput": "出力",
+      "IODeviceDefault": "デフォルト",
+      "IODeviceInputNotFound": "入力が見つかりません",
+      "IODeviceOutputNotFound": "出力が見つかりません",
+      "SrvStatMsg": "メッセージ",
+      "SrvStatMsgDisplayNew": "新規メッセージ数を表示",
+      "SrvStatUsrOnline": "オンラインユーザーを表示",
+      "SrvStatUsrActive": "最近アクティブなユーザーを表示",
+      "OnPress": "押すと",
+      "OnLongPress": "長押しで",
+      "OnPressRecentMsg": "最新メッセージに移動",
+      "OnPressClearMsg": "メッセージ数を消去",
+      "OnPressNotification": "開いて消去",
+      "OnPressClearNotification": "消去",
+      "OnPressCycleNotificationRecent": "循環、新しい順",
+      "OnPressCycleNotificationOld": "循環、古い順",
+      "SrvWidgetWarn": "オンラインユーザーを追跡するにはサーバーウィジェットをオンにする必要があります",
+      "SoundLabel": "サウンド",
+      "SoundboardSearch": "検索結果",
+      "SoundboardSearchEmpty": "サウンドが見つかりません",
+      "SoundboardDefaults": "Discord サウンド",
+      "Search": "検索"
+    },
+    "Volume": "音量"
+  }
+}

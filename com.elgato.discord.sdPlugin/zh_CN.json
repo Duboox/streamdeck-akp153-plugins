@@ -1,0 +1,205 @@
+{
+  "Description": "控制 Discord。",
+  "Name": "Discord",
+  "com.elgato.discord.mute": {
+    "Name": "麦克风静音",
+    "Tooltip": "切换麦克风静音",
+    "States": [
+      {
+        "Name": "静音"
+      },
+      {
+        "Name": "取消静音"
+      }
+    ]
+  },
+  "com.elgato.discord.deafen": {
+    "Name": "耳机静音",
+    "Tooltip": "切换耳机静音",
+    "States": [
+      {
+        "Name": "耳机静音"
+      },
+      {
+        "Name": "取消耳机静音"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.voice": {
+    "Name": "语音通道",
+    "Tooltip": "加入或离开语音通道",
+    "States": [
+      {
+        "Name": "加入"
+      },
+      {
+        "Name": "离开"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.text": {
+    "Name": "文本通道",
+    "Tooltip": "进入文本通道"
+  },
+  "com.elgato.discord.pushto.talk": {
+    "Name": "按下开始讲话",
+    "Tooltip": "按住讲话"
+  },
+  "com.elgato.discord.pushto.mute": {
+    "Name": "按下将麦克风静音",
+    "Tooltip": "按住静音"
+  },
+  "com.elgato.discord.setaudiodevice": {
+    "Name": "设置音频设备",
+    "Tooltip": "选择您的音频输入设备和输出设备"
+  },
+  "com.elgato.discord.serverstats": {
+    "Name": "服务器状态",
+    "Tooltip": "显示服务器的用户/消息状态"
+  },
+  "com.elgato.discord.pushtotalktoggle": {
+    "Name": "切换语音输入模式",
+    "Tooltip": "在“按下开始讲话”与语音感应模式之间切换",
+    "States": [
+      {
+        "Name": "语音感应"
+      },
+      {
+        "Name": "按下开始讲话"
+      }
+    ]
+  },
+  "com.elgato.discord.soundboard": {
+    "Name": "声音板",
+    "Tooltip": "在 Discord 声音板中播放声音"
+  },
+  "com.elgato.discord.notifications": {
+    "Name": "通知",
+    "Tooltip": "显示近期通知的提示"
+  },
+  "com.elgato.discord.uservolumecontrolbutton": {
+    "Name": "用户音量控制",
+    "Tooltip": "控制通话中用户的音量"
+  },
+  "com.elgato.discord.uservolumecontroldial": {
+    "Name": "用户音量控制",
+    "Tooltip": "控制通话中用户的音量",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "调节音量",
+        "Push": "下一位用户",
+        "Touch": "静音"
+      }
+    }
+  },
+  "com.elgato.discord.volumecontrolbutton": {
+    "Name": "音量控制",
+    "Tooltip": "控制音频设备音量"
+  },
+  "com.elgato.discord.volumecontrol": {
+    "Name": "音量控制",
+    "Tooltip": "控制音频设备音量",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "调节音量",
+        "Push": "静音/耳机静音",
+        "Touch": "静音/耳机静音"
+      }
+    }
+  },
+  "com.elgato.discord.videotoggle": {
+    "Name": "开启/关闭视频",
+    "Tooltip": "在语音通话中开启/关闭摄像头画面",
+    "States": [
+      {
+        "Name": "启用视频"
+      },
+      {
+        "Name": "禁用视频"
+      }
+    ]
+  },
+  "com.elgato.discord.streamtoggle": {
+    "Name": "开启/关闭直播",
+    "Tooltip": "在语音通话中开启/关闭屏幕共享",
+    "States": [
+      {
+        "Name": "启用直播"
+      },
+      {
+        "Name": "禁用直播"
+      }
+    ]
+  },
+  "Localization": {
+    "PI": {
+      "AppWarning": "请启动 Discord",
+      "AuthWarning": "需要 Discord 授权",
+      "AccessLabel": "授权",
+      "AccessButton": "请求访问权限",
+      "Server": "服务器",
+      "NoServer": "无服务器",
+      "VoiceChannel": "语音通道",
+      "TextChannel": "文本通道",
+      "NoChannel": "无频道",
+      "Action": "操作",
+      "PushToTalk": "按下开始讲话",
+      "PushToMute": "按下将麦克风静音",
+      "UserVolumeMode": "模式",
+      "DeviceVolumeMode": "模式",
+      "UserMuteType": "静音类型",
+      "MuteUser": "静音",
+      "UnmuteUser": "取消静音",
+      "ToggleMuteUser": "静音/取消静音",
+      "MuteDevice": "静音",
+      "AdjustUserVol": "调整",
+      "AdjustDeviceVol": "调整",
+      "SetUserVol": "设置",
+      "SetDeviceVol": "设置",
+      "UserAdjustMode": "调整模式",
+      "UserAdjustAny": "任何用户",
+      "UserAdjustSpecific": "特定用户",
+      "VolStepSize": "调整单位",
+      "VolSetValue": "理想音量",
+      "DontDisplay": "不显示",
+      "DoNothing": "不执行任何操作",
+      "User": "用户",
+      "Users": "用户",
+      "UsersNotFound": "未发现任何用户",
+      "IconStyle": "图标样式",
+      "IconStatic": "静态",
+      "IconDynamic": "动态",
+      "IconDynamicH": "动态（水平）",
+      "IconDynamicV": "动态（垂直）",
+      "IODeviceMode": "模式",
+      "IODeviceModeInput": "设置输入设备",
+      "IODeviceModeOutput": "设置输出设备",
+      "IODeviceModeBoth": "设置两者",
+      "IODevice": "设备",
+      "IODeviceInput": "输入",
+      "IODeviceOutput": "输出",
+      "IODeviceDefault": "默认",
+      "IODeviceInputNotFound": "未发现输入设备",
+      "IODeviceOutputNotFound": "未发现输出设备",
+      "SrvStatMsg": "消息",
+      "SrvStatMsgDisplayNew": "显示新消息计数",
+      "SrvStatUsrOnline": "显示线上用户",
+      "SrvStatUsrActive": "显示近期活跃用户",
+      "OnPress": "按下时",
+      "OnLongPress": "长按时",
+      "OnPressRecentMsg": "前往最近消息",
+      "OnPressClearMsg": "清除消息计数",
+      "OnPressNotification": "打开并清空",
+      "OnPressClearNotification": "清空",
+      "OnPressCycleNotificationRecent": "循环，最新优先",
+      "OnPressCycleNotificationOld": "循环，最旧优先",
+      "SrvWidgetWarn": "必须启用服务器小组件才能追踪线上用户",
+      "SoundLabel": "声音",
+      "SoundboardSearch": "搜索结果",
+      "SoundboardSearchEmpty": "未找到声音",
+      "SoundboardDefaults": "Discord 自有声音",
+      "Search": "搜索"
+    },
+    "Volume": "音量"
+  }
+}

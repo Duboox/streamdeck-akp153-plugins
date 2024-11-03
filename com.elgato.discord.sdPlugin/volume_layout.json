@@ -1,0 +1,44 @@
+{
+    "id": "$B1",
+    "items": [
+      {
+        "key": "title",
+        "type": "text",
+        "rect": [16, 10, 136, 24],
+        "font": { "size": 16, "weight": 600 },
+        "alignment": "left"
+      },
+      {
+        "key": "icon",
+        "type": "pixmap",
+        "rect": [16, 40, 48, 48]
+      },
+      {
+        "key": "value",
+        "type": "text",
+        "rect": [76, 40, 108, 32],
+        "font": { "size": 24, "weight": 600 },
+        "alignment": "right"
+      },
+      {
+        "key": "indicator",
+        "type": "bar",
+        "rect": [76, 74, 108, 12],
+        "value": 0,
+        "subtype": 4,
+        "border_w": 0
+      },
+      {
+        "key": "indicatorHigh",
+        "type": "bar",
+        "rect": [76, 74, 108, 12],
+        "value": 0,
+        "subtype": 4,
+        "border_w": 0,
+        "opacity": 0,
+        "bar_bg_c": "0:#000,.1:#FFF,1:#FFF",
+        "bar_fill_c": "#DD0000",
+        "zOrder": 2
+      }
+    ]
+  }

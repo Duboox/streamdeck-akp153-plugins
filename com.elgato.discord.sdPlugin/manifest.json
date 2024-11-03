@@ -1,0 +1,306 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/icons/soundboard",
+      "Name": "Soundboard",
+      "States": [
+        {
+          "Image": "images/actions/soundboard"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Plays a sound on the Discord Soundboard",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.soundboard"
+    },
+    {
+      "Icon": "images/icons/mute_white",
+      "Name": "Mute",
+			"DisableAutomaticStates": true,
+      "States": [
+        {
+          "Image": "images/actions/mute_0",
+          "Name": "Mute"
+        },
+        {
+          "Image": "images/actions/mute_1",
+          "Name": "Unmute"
+        }
+      ],
+      "Tooltip": "",
+      "UUID": "com.elgato.discord.mute"
+    },
+    {
+      "Icon": "images/icons/deafen_white",
+      "Name": "Deafen",
+			"DisableAutomaticStates": true,
+      "States": [
+        {
+          "Image": "images/actions/deafen_0",
+          "Name": "Deafen"
+        },
+        {
+          "Image": "images/actions/deafen_1",
+          "Name": "Undeafen"
+        }
+      ],
+      "Tooltip": "",
+      "UUID": "com.elgato.discord.deafen"
+    },
+    {
+      "Icon": "images/icons/voicechannel_white",
+      "Name": "Voice Channel",
+      "States": [
+        {
+          "Image": "images/actions/voicechannel_0",
+          "Name": "Enter"
+        },
+        {
+          "Image": "images/actions/voicechannel_1",
+          "Name": "Leave"
+        }
+      ],
+      "Tooltip": "",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.channel.voice"
+    },
+    {
+      "Icon": "images/icons/textchannel_white",
+      "Name": "Text Channel",
+      "States": [
+        {
+          "Image": "images/actions/textchannel",
+          "Name": "Enter"
+        }
+      ],
+      "Tooltip": "",
+      "UUID": "com.elgato.discord.channel.text"
+    },
+    {
+      "Icon": "images/icons/pushtotalk_white",
+      "Name": "Push to Talk",
+      "States": [
+        {
+          "Image": "images/actions/pushtotalk_0"
+        },
+        {
+          "Image": "images/actions/pushtotalk_1"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.pushto.talk"
+    },
+    {
+      "Icon": "images/icons/pushtomute_white",
+      "Name": "Push to Mute",
+      "States": [
+        {
+          "Image": "images/actions/pushtomute_0"
+        },
+        {
+          "Image": "images/actions/pushtomute_1"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.pushto.mute"
+    },
+    {
+      "Icon": "images/icons/setAudioDevice",
+      "Name": "Set Audio Device",
+      "States": [
+        {
+          "Image": "images/actions/headphonesAndMicrophone"
+        },
+        {
+          "Image": "images/actions/headphonesAndMicrophone_1"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Select your audio input and output device",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.setaudiodevice"
+    },
+    {
+      "Icon": "images/icons/serverStats",
+      "Name": "Server Stats",
+      "States": [
+        {
+          "Image": "images/actions/serverStats"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Display user / message stats for a server",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.serverstats"
+    },
+    {
+      "Icon": "images/icons/togglePushToTalk",
+      "Name": "Voice Input Mode Toggle",
+      "States": [
+        {
+          "Image": "images/actions/ptttoggle_0",
+          "Name": "Voice Activity"
+        },
+        {
+          "Image": "images/actions/ptttoggle_1",
+          "Name": "Push to Talk"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Toggle push to talk mode",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.pushtotalktoggle"
+    },
+    {
+      "Icon": "images/icons/notificationsDisplay",
+      "Name": "Notifications",
+      "States": [
+        {
+          "Image": "images/actions/notifications"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Display alerts for recent notifications",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.notifications"
+    },
+    {
+      "Icon": "images/icons/video",
+      "Name": "Video Toggle",
+      "States": [
+        {
+          "Name": "Enable Video",
+          "Image": "images/actions/video_0"
+        },
+        {
+          "Name": "Disable Video",
+          "Image": "images/actions/video_1"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Toggles your camera feed in voice calls",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.videotoggle"
+    },
+    {
+      "Icon": "images/icons/stream",
+      "Name": "Stream Toggle",
+      "States": [
+        {
+          "Name": "Enable Stream",
+          "Image": "images/actions/stream_0"
+        },
+        {
+          "Name": "Disable Stream",
+          "Image": "images/actions/stream_1"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Toggles your screen sharing in voice calls",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.streamtoggle"
+    },
+    {
+      "Icon": "images/icons/userVolumeControl",
+      "Name": "User Volume Control",
+      "States": [
+        {
+          "Image": "images/actions/userVolumeControl"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Control the volume of users in calls",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.uservolumecontrolbutton"
+    },
+    {
+			"Name": "User Volume Control",
+			"Icon": "images/icons/userVolumeControl",
+			"States": [
+				{
+					"Image": "images/actions/userVolumeControl"
+				}
+			],
+			"SupportedInMultiActions": false,
+			"Tooltip": "Control the volume of users in calls",
+			"Controllers": [
+				"Encoder"
+			],
+			"Encoder": {
+				"layout": "volume_layout.json",
+				"TriggerDescription": {
+					"Rotate": "Adjust Volume",
+					"Push": "Next User",
+					"Touch": "Mute"
+				}
+			},
+			"UUID": "com.elgato.discord.uservolumecontroldial"
+		},
+    {
+      "Icon": "images/icons/volumeControl",
+      "Name": "Volume Control",
+      "States": [
+        {
+          "Image": "images/actions/volumeControl"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Control the volume of audio devices",
+      "DisableAutomaticStates": true,
+      "UUID": "com.elgato.discord.volumecontrolbutton"
+    },
+    {
+			"Name": "Volume Control",
+			"Icon": "images/icons/volumeControl",
+			"States": [
+				{
+					"Image": "images/actions/volumeControl"
+				}
+			],
+			"SupportedInMultiActions": false,
+			"Tooltip": "Control the volume of audio devices",
+			"Controllers": [
+				"Encoder"
+			],
+			"Encoder": {
+				"layout": "volume_layout.json",
+				"TriggerDescription": {
+					"Rotate": "Adjust Volume",
+					"Push": "Mute/Deafen",
+					"Touch": "Mute/Deafen"
+				}
+			},
+			"UUID": "com.elgato.discord.volumecontrol"
+		}
+  ],
+  "SDKVersion": 2,
+  "Author": "Elgato",
+  "CodePathWin": "ESDDiscord.exe",
+  "CodePathMac": "ESDDiscord",
+  "Description": "Control Discord.",
+  "Name": "Discord",
+  "Icon": "images/plugin",
+  "Category": "Discord",
+  "CategoryIcon": "images/category",
+  "PropertyInspectorPath": "inspectors/index.html",
+  "URL": "https://www.elgato.com/gaming/stream-deck",
+  "Version": "2.1.0.62",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.15"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software":
+  {
+    "MinimumVersion": "6.1"
+  }
+}

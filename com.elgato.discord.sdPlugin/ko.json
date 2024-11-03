@@ -1,0 +1,205 @@
+{
+  "Description": "Discord를 제어합니다.",
+  "Name": "Discord",
+  "com.elgato.discord.mute": {
+    "Name": "마이크 음소거",
+    "Tooltip": "마이크 음소거 켬/끔",
+    "States": [
+      {
+        "Name": "음소거"
+      },
+      {
+        "Name": "음소거 해제"
+      }
+    ]
+  },
+  "com.elgato.discord.deafen": {
+    "Name": "헤드폰 음소거",
+    "Tooltip": "헤드폰 음소거 켬/끔",
+    "States": [
+      {
+        "Name": "헤드폰 음소거"
+      },
+      {
+        "Name": "헤드폰 음소거 해제"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.voice": {
+    "Name": "음성 채널",
+    "Tooltip": "음성 채널 참가 또는 퇴장",
+    "States": [
+      {
+        "Name": "입장"
+      },
+      {
+        "Name": "나가기"
+      }
+    ]
+  },
+  "com.elgato.discord.channel.text": {
+    "Name": "텍스트 채널",
+    "Tooltip": "텍스트 채널로 이동"
+  },
+  "com.elgato.discord.pushto.talk": {
+    "Name": "눌러서 말하기",
+    "Tooltip": "누르는 동안 말하기"
+  },
+  "com.elgato.discord.pushto.mute": {
+    "Name": "눌러서 음소거",
+    "Tooltip": "누르는 동안 음소거"
+  },
+  "com.elgato.discord.setaudiodevice": {
+    "Name": "오디오 장치 설정",
+    "Tooltip": "오디오 입력 및 출력 장치를 선택하세요"
+  },
+  "com.elgato.discord.serverstats": {
+    "Name": "서버 통계",
+    "Tooltip": "서버에 대한 사용자/메시지 통계 표시"
+  },
+  "com.elgato.discord.pushtotalktoggle": {
+    "Name": "음성 입력 모드 토글",
+    "Tooltip": "눌러서 말하기와 음성 활동 모드 사이를 전환합니다",
+    "States": [
+      {
+        "Name": "음성 활동"
+      },
+      {
+        "Name": "눌러서 말하기"
+      }
+    ]
+  },
+  "com.elgato.discord.soundboard": {
+    "Name": "사운드보드",
+    "Tooltip": "Discord 사운드보드에서 사운드를 재생합니다"
+  },
+  "com.elgato.discord.notifications": {
+    "Name": "알림",
+    "Tooltip": "최근 알림에 대한 경고 표시"
+  },
+  "com.elgato.discord.uservolumecontrolbutton": {
+    "Name": "사용자 음량 제어",
+    "Tooltip": "음성채팅 중인 사용자의 음량 제어"
+  },
+  "com.elgato.discord.uservolumecontroldial": {
+    "Name": "사용자 음량 제어",
+    "Tooltip": "음성채팅 중인 사용자의 음량 제어",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "음량 조절",
+        "Push": "다음 사용자",
+        "Touch": "음소거"
+      }
+    }
+  },
+  "com.elgato.discord.volumecontrolbutton": {
+    "Name": "음량 제어",
+    "Tooltip": "오디오 장치의 음량 제어"
+  },
+  "com.elgato.discord.volumecontrol": {
+    "Name": "음량 제어",
+    "Tooltip": "오디오 장치의 음량 제어",
+    "Encoder": {
+      "TriggerDescription": {
+        "Rotate": "음량 조절",
+        "Push": "음소거/헤드폰 음소거",
+        "Touch": "음소거/헤드폰 음소거"
+      }
+    }
+  },
+  "com.elgato.discord.videotoggle": {
+    "Name": "비디오 토글",
+    "Tooltip": "음성 통화에서 카메라 피드를 켜고 끕니다",
+    "States": [
+      {
+        "Name": "비디오 켬"
+      },
+      {
+        "Name": "비디오 끔"
+      }
+    ]
+  },
+  "com.elgato.discord.streamtoggle": {
+    "Name": "스트리밍 토글",
+    "Tooltip": "음성 통화에서 화면 공유를 켜고 끕니다",
+    "States": [
+      {
+        "Name": "스트리밍 켬"
+      },
+      {
+        "Name": "스트리밍 끔"
+      }
+    ]
+  },
+  "Localization": {
+    "PI": {
+      "AppWarning": "Discord를 실행하세요",
+      "AuthWarning": "Discord 인증 필요",
+      "AccessLabel": "인증",
+      "AccessButton": "액세스 요청",
+      "Server": "서버",
+      "NoServer": "서버 없음",
+      "VoiceChannel": "음성 채널",
+      "TextChannel": "텍스트 채널",
+      "NoChannel": "채널 없음",
+      "Action": "동작",
+      "PushToTalk": "눌러서 말하기",
+      "PushToMute": "눌러서 음소거",
+      "UserVolumeMode": "모드",
+      "DeviceVolumeMode": "모드",
+      "UserMuteType": "음소거 유형",
+      "MuteUser": "음소거",
+      "UnmuteUser": "음소거 해제",
+      "ToggleMuteUser": "음소거 토글",
+      "MuteDevice": "음소거",
+      "AdjustUserVol": "조절",
+      "AdjustDeviceVol": "조절",
+      "SetUserVol": "설정",
+      "SetDeviceVol": "설정",
+      "UserAdjustMode": "조절 모드",
+      "UserAdjustAny": "아무 사용자",
+      "UserAdjustSpecific": "특정 사용자",
+      "VolStepSize": "단계 크기",
+      "VolSetValue": "선호하는 음량",
+      "DontDisplay": "표시하지 않음",
+      "DoNothing": "아무것도 하지 않음",
+      "User": "사용자",
+      "Users": "사용자",
+      "UsersNotFound": "사용자를 찾지 못함",
+      "IconStyle": "아이콘 스타일",
+      "IconStatic": "고정",
+      "IconDynamic": "동적",
+      "IconDynamicH": "동적 (수평)",
+      "IconDynamicV": "동적 (수직)",
+      "IODeviceMode": "모드",
+      "IODeviceModeInput": "입력 설정",
+      "IODeviceModeOutput": "출력 설정",
+      "IODeviceModeBoth": "둘 다 설정",
+      "IODevice": "장치",
+      "IODeviceInput": "입력",
+      "IODeviceOutput": "출력",
+      "IODeviceDefault": "기본",
+      "IODeviceInputNotFound": "입력을 찾지 못함",
+      "IODeviceOutputNotFound": "출력을 찾지 못함",
+      "SrvStatMsg": "메시지",
+      "SrvStatMsgDisplayNew": "새로운 메시지 카운트 표시",
+      "SrvStatUsrOnline": "온라인 사용자 표시",
+      "SrvStatUsrActive": "최근 활동한 사용자 표시",
+      "OnPress": "누르기",
+      "OnLongPress": "길게 누르기",
+      "OnPressRecentMsg": "가장 최근 메시지로 이동",
+      "OnPressClearMsg": "메시지 카운트 지우기",
+      "OnPressNotification": "열기 및 지우기",
+      "OnPressClearNotification": "지우기",
+      "OnPressCycleNotificationRecent": "순환, 최근 항목 우선",
+      "OnPressCycleNotificationOld": "순환, 오래된 항목 우선",
+      "SrvWidgetWarn": "온라인 사용자를 파악하려면 반드시 서버 위젯을 활성화해야 합니다",
+      "SoundLabel": "사운드",
+      "SoundboardSearch": "검색 결과",
+      "SoundboardSearchEmpty": "사운드를 찾을 수 없음",
+      "SoundboardDefaults": "Discord 사운드",
+      "Search": "검색"
+    },
+    "Volume": "음량"
+  }
+}
