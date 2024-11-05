@@ -6,3 +6,6 @@ Replace store folder with store folder in rar
 
 # FOR ElGato Stream Dock Plugins are installed in:
 /Users/joshdevjs/Library/Application Support/com.elgato.StreamDeck/Plugins
+
+# Stream Deck Plugins Repository:
+https://streamdeck-plugins.com/
